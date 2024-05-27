@@ -1,0 +1,933 @@
+ProviderNbr,NpiNbr,FirstName,LastName,Email,Prefix,FTE,ProviderCategory,SpecialityCode
+216332,187719108,Colton,Zuniga,colton.zuniga@datacourse.com,,1.0,Physician Assistant,97
+215759,187700570,Rhonda,Zhang,rhonda.zhang@datacourse.com,,0.9,Nurse Practitioner,50
+215806,187716326,Crystal,Yoder,crystal.yoder@datacourse.com,,1.0,Nurse Practitioner,50
+215760,187720694,James,Yates,james.yates@datacourse.com,,1.0,Nurse Practitioner,50
+216264,187714896,Frank,Willis,frank.willis@datacourse.com,,0.37,Nurse Practitioner,50
+216403,187703274,Ricardo,Williams,ricardo.williams@datacourse.com,,0.18,Nurse Practitioner,50
+212304,187723866,Eric,Wiggins,eric.wiggins@datacourse.com,,0.09,Social Worker - Clinical,80
+216297,187724308,Albert,Wells,albert.wells@datacourse.com,,0.5,Physician Assistant,97
+215260,187708396,Greg,Webster,greg.webster@datacourse.com,,1.0,Nurse Practitioner,50
+215607,187711152,Sabrina,Watts,sabrina.watts@datacourse.com,,0.25,Physician Assistant,97
+216635,187719056,Mike,Warren,mike.warren@datacourse.com,,0.9,Nurse Practitioner,50
+216020,187710528,Mark,Velez,mark.velez@datacourse.com,,1.0,Nurse Practitioner,50
+218381,187710528,Michael,Velez,michael.velez@datacourse.com,,1.0,Nurse Practitioner,50
+216105,187719888,Kimberly,Vega,kimberly.vega@datacourse.com,,1.0,Nurse Practitioner,50
+216515,187715234,Michele,Vasquez,michele.vasquez@datacourse.com,,0.25,Physician Assistant,97
+215648,187719862,Selena,Vance,selena.vance@datacourse.com,,1.0,Physician Assistant,97
+216124,187708188,Edward,Valencia,edward.valencia@datacourse.com,,0.5,Nurse Practitioner,50
+215833,187715364,Stanley,Tyler,stanley.tyler@datacourse.com,,1.0,Nurse Practitioner,50
+216570,187715806,Jessica,Turner,jessica.turner@datacourse.com,,0.9,Physician Assistant,97
+216728,187705172,Trevor,Trevino,trevor.trevino@datacourse.com,,0.9,Nurse Practitioner,50
+215370,187706082,Andrew,Strong,andrew.strong@datacourse.com,,0.9,Nurse Practitioner,50
+216561,187720590,Travis,Soto,travis.soto@datacourse.com,,1.0,Physician Assistant,97
+215609,187702676,Elizabeth,Sosa,elizabeth.sosa@datacourse.com,,1.0,Nurse Practitioner,50
+217513,187714298,Bradley,Snyder,bradley.snyder@datacourse.com,,0.9,Physician Assistant,97
+216531,187707356,Sharon,Simpson,sharon.simpson@datacourse.com,,0.9,Physician Assistant,97
+216596,187720642,Amy,Sharp,amy.sharp@datacourse.com,,0.75,Nurse Practitioner,50
+217240,187713232,Elizabeth,Sellers,elizabeth.sellers@datacourse.com,,0.17,Physician Assistant,97
+215994,187714740,Angela,Schmidt,angela.schmidt@datacourse.com,,1.0,Nurse Practitioner,50
+216988,187706576,Melinda,Saunders,melinda.saunders@datacourse.com,,0.9,Physician Assistant,97
+215872,187706550,Janet,Santiago,janet.santiago@datacourse.com,,1.0,Physician Assistant,97
+216777,187707200,Ashlee,Santana,ashlee.santana@datacourse.com,,1.0,Physician Assistant,97
+216583,187721214,Mary,Salas,mary.salas@datacourse.com,,1.0,Registered Nurse,43
+215844,187716716,James,Roy,james.roy@datacourse.com,,1.0,Physician Assistant,97
+215448,187719420,Brian,Roth,brian.roth@datacourse.com,,0.13,Physician Assistant,97
+216522,187715624,Laura,Rivera,laura.rivera@datacourse.com,,1.0,Physician Assistant,97
+217295,187718172,Jimmy,Ritter,jimmy.ritter@datacourse.com,,0.75,Nurse Practitioner,50
+216579,187699946,Peter,Rich,peter.rich@datacourse.com,,0.16,Physician Assistant,97
+216005,187721708,Shannon,Rice,shannon.rice@datacourse.com,,1.0,Physician Assistant,97
+215196,187718432,Matthew,Reyes,matthew.reyes@datacourse.com,,0.9,Physician Assistant,97
+215224,187712426,Margaret,Reed,margaret.reed@datacourse.com,,1.0,Nurse Practitioner,50
+216298,187717418,Jeanette,Raymond,jeanette.raymond@datacourse.com,,0.9,Nurse Practitioner,50
+215322,187710918,Valerie,Rasmussen,valerie.rasmussen@datacourse.com,,0.5,Nurse Practitioner,50
+215810,187716534,Vanessa,Rangel,vanessa.rangel@datacourse.com,,1.0,Nurse Practitioner,50
+216254,187712062,Lacey,Prince,lacey.prince@datacourse.com,,1.0,Nurse Practitioner,50
+215442,187718224,Jose,Powell,jose.powell@datacourse.com,,1.0,Nurse Practitioner,50
+216208,187720668,Steven,Poole,steven.poole@datacourse.com,,0.5,Nurse Practitioner,50
+215235,187703924,Carrie,Ponce,carrie.ponce@datacourse.com,,1.0,Physician Assistant,97
+217187,187706524,Christy,Pollard,christy.pollard@datacourse.com,,0.9,Physician Assistant,97
+216670,187701532,Jacob,Pierce,jacob.pierce@datacourse.com,,1.0,Physician Assistant,97
+215385,187721422,Sharon,Phillips,sharon.phillips@datacourse.com,,1.0,Nurse Practitioner,50
+216543,187710320,Ashley,Petty,ashley.petty@datacourse.com,,1.0,Physician Assistant,97
+215494,187724126,Steve,Petersen,steve.petersen@datacourse.com,,1.0,Nurse Practitioner,50
+216542,187720980,Nathaniel,Peters,nathaniel.peters@datacourse.com,,0.75,Nurse Practitioner,50
+215497,187713492,Elizabeth,Perkins,elizabeth.perkins@datacourse.com,,1.0,Physician Assistant,97
+215480,187723580,Diamond,Pennington,diamond.pennington@datacourse.com,,1.0,Physician Assistant,97
+215932,187701688,James,Owens,james.owens@datacourse.com,,0.16,Nurse Practitioner,50
+215570,187702650,Jennifer,Ortega,jennifer.ortega@datacourse.com,,0.5,Physician Assistant,97
+215441,187712842,Stephen,Oneill,stephen.oneill@datacourse.com,,0.75,Physician Assistant,97
+217114,187710892,Alan,Oliver,alan.oliver@datacourse.com,,0.9,Nurse Practitioner,50
+216719,187712790,Gary,Odonnell,gary.odonnell@datacourse.com,,0.9,Physician Assistant,97
+215907,187704912,Jennifer,Oconnor,jennifer.oconnor@datacourse.com,,1.0,Nurse Practitioner,50
+216608,187717652,Gloria,Norris,gloria.norris@datacourse.com,,1.0,Nurse Practitioner,50
+217037,187709228,Jamie,Nixon,jamie.nixon@datacourse.com,,0.6,Physician Assistant,97
+217309,187706264,Danny,Nguyen,danny.nguyen@datacourse.com,,0.0,Physician Assistant,97
+218448,187718822,Madeline,Neal,madeline.neal@datacourse.com,,0.11,Social Worker - Clinical,80
+215357,187718536,Michael,Navarro,michael.navarro@datacourse.com,,0.9,Nurse Practitioner,50
+216833,187716066,Jennifer,Nash,jennifer.nash@datacourse.com,,0.9,Physician Assistant,97
+215564,187711828,Michael,Munoz,michael.munoz@datacourse.com,,0.9,Nurse Practitioner,50
+216953,187708682,Kevin,Mullen,kevin.mullen@datacourse.com,,0.9,Physician Assistant,97
+216062,187708032,April,Moyer,april.moyer@datacourse.com,,1.0,Nurse Practitioner,50
+217626,187709540,Mary,Mosley,mary.mosley@datacourse.com,,0.44,Nurse Practitioner,50
+216071,187716664,Brenda,Morse,brenda.morse@datacourse.com,,1.0,Registered Nurse,43
+215960,187712036,Holly,Morrow,holly.morrow@datacourse.com,,1.0,Nurse Practitioner,50
+215484,187721006,Natalie,Montgomery,natalie.montgomery@datacourse.com,,0.9,Physician Assistant,97
+215840,187709956,Donald,Miranda,donald.miranda@datacourse.com,,1.0,Physician Assistant,97
+216016,187708370,Keith,Mills,keith.mills@datacourse.com,,1.0,Nurse Practitioner,50
+212444,187708448,Frank,Miller,frank.miller@datacourse.com,,0.41,Psychologist,68
+216459,187711256,James,Michael,james.michael@datacourse.com,,1.0,Physician Assistant,97
+215936,187717860,Michael,Meyers,michael.meyers@datacourse.com,,0.75,Nurse Practitioner,50
+215857,187719446,Wendy,Mercado,wendy.mercado@datacourse.com,,1.0,Physician Assistant,97
+217093,187711854,Marc,Mcmillan,marc.mcmillan@datacourse.com,,0.9,Nurse Practitioner,50
+216882,187706134,Christine,Mckee,christine.mckee@datacourse.com,,0.8,Physician Assistant,97
+216646,187709904,Selena,Mcintosh,selena.mcintosh@datacourse.com,,0.9,Registered Nurse,43
+215740,187701662,Lori,Mcfarland,lori.mcfarland@datacourse.com,,1.0,Nurse Practitioner,50
+216775,187712816,Johnny,Mcdowell,johnny.mcdowell@datacourse.com,,0.63,Nurse Practitioner,50
+216470,187715390,Pamela,Mcdonald,pamela.mcdonald@datacourse.com,,1.0,Nurse Practitioner,50
+215432,187721188,Stephen,Mccann,stephen.mccann@datacourse.com,,1.0,Nurse Practitioner,50
+216061,187724022,Michael,Martin,michael.martin@datacourse.com,,0.5,Nurse Practitioner,50
+215301,187704730,Paul,Marshall,paul.marshall@datacourse.com,,1.0,Nurse Practitioner,50
+217721,187714324,Amanda,Marsh,amanda.marsh@datacourse.com,,0.5,Nurse Practitioner,50
+215986,187711750,David,Malone,david.malone@datacourse.com,,1.0,Physician Assistant,97
+212332,187723554,Holly,Mahoney,holly.mahoney@datacourse.com,,0.1,Psychologist,68
+215262,187716612,Jessica,Madden,jessica.madden@datacourse.com,,0.3,Nurse Practitioner,50
+217785,187708500,Frederick,Lynch,frederick.lynch@datacourse.com,,0.0,Physician Assistant,97
+213767,187712582,Shawna,Lowery,shawna.lowery@datacourse.com,,0.16,Social Worker - Clinical,80
+216892,187705198,Tracy,Long,tracy.long@datacourse.com,,0.9,Nurse Practitioner,50
+216098,187710606,Patrick,Lindsey,patrick.lindsey@datacourse.com,,0.75,Physician Assistant,97
+215856,187702130,Jasmine,Leon,jasmine.leon@datacourse.com,,0.45,Nurse Practitioner,50
+216848,187718484,Dale,Le,dale.le@datacourse.com,,1.0,Nurse Practitioner,50
+216983,187700050,Steven,Lamb,steven.lamb@datacourse.com,,1.0,Nurse Practitioner,50
+214180,187717028,Patricia,Knight,patricia.knight@datacourse.com,,1.0,Physician Assistant,97
+216211,187703248,Erica,Klein,erica.klein@datacourse.com,,0.9,Nurse Practitioner,50
+215835,187719602,Benjamin,Kirby,benjamin.kirby@datacourse.com,,1.0,Nurse Practitioner,50
+215592,187713830,Julia,Key,julia.key@datacourse.com,,0.96,Physician Assistant,97
+216557,187703508,Felicia,Keith,felicia.keith@datacourse.com,,0.02,Midwife,42
+215304,187715026,Nicole,Kaufman,nicole.kaufman@datacourse.com,,1.0,Physician Assistant,97
+216700,187719758,Steven,Juarez,steven.juarez@datacourse.com,,0.39,Nurse Practitioner,50
+218256,187714714,Justin,Johnson,justin.johnson@datacourse.com,,0.2,Nurse Practitioner,50
+215368,187707382,Martha,Johns,martha.johns@datacourse.com,,1.0,Nurse Practitioner,50
+216503,187719966,Elizabeth,Jacobs,elizabeth.jacobs@datacourse.com,,1.0,Nurse Practitioner,50
+217432,187703820,Francis,Irwin,francis.irwin@datacourse.com,,1.0,Physician Assistant,97
+216714,187717964,Amber,Huber,amber.huber@datacourse.com,,0.75,Physician Assistant,97
+215635,187712946,Lori,Horne,lori.horne@datacourse.com,,0.07,Physician Assistant,97
+211846,187722306,Joe,Horn,joe.horn@datacourse.com,,0.04,Psychologist,68
+216825,187714116,Michael,Hopkins,michael.hopkins@datacourse.com,,1.0,Nurse Practitioner,50
+217052,187706966,Christopher,Hodges,christopher.hodges@datacourse.com,,1.0,Nurse Practitioner,50
+215756,187720148,Alexandra,Hodge,alexandra.hodge@datacourse.com,,0.75,Nurse Practitioner,50
+215939,187717886,Vanessa,Hobbs,vanessa.hobbs@datacourse.com,,1.0,Nurse Practitioner,50
+216450,187721838,Christopher,Higgins,christopher.higgins@datacourse.com,,1.0,Physician Assistant,97
+216709,187718198,Joseph,Hickman,joseph.hickman@datacourse.com,,1.0,Physician Assistant,97
+216362,187720928,Ashley,Herrera,ashley.herrera@datacourse.com,,0.9,Physician Assistant,97
+215983,187721812,Jay,Hernandez,jay.hernandez@datacourse.com,,1.0,Physician Assistant,97
+215460,187717106,Joseph,Henry,joseph.henry@datacourse.com,,0.9,Nurse Practitioner,50
+215694,187717938,Rachel,Henderson,rachel.henderson@datacourse.com,,0.75,Nurse Practitioner,50
+216369,187714948,Stacey,Hebert,stacey.hebert@datacourse.com,,1.0,Nurse Practitioner,50
+215716,187722332,Samuel,Harris,samuel.harris@datacourse.com,,1.0,Physician Assistant,97
+215808,187703612,Cheryl,Harmon,cheryl.harmon@datacourse.com,,0.8,Nurse Practitioner,50
+216159,187705146,Robert,Hansen,robert.hansen@datacourse.com,,1.0,Nurse Practitioner,50
+215777,187714402,Michael,Hanna,michael.hanna@datacourse.com,,0.07,Physician Assistant,97
+215535,187701636,Tim,Hall,tim.hall@datacourse.com,,1.0,Physician Assistant,97
+214432,187708422,Diana,Griffith,diana.griffith@datacourse.com,,0.1,Psychologist,68
+215814,187706290,Courtney,Gomez,courtney.gomez@datacourse.com,,1.0,Nurse Practitioner,50
+215334,187723242,Jason,Gilbert,jason.gilbert@datacourse.com,,1.0,Nurse Practitioner,50
+215908,187716144,Angela,Gibbs,angela.gibbs@datacourse.com,,1.0,Physician Assistant,97
+217423,187711776,Katie,Gentry,katie.gentry@datacourse.com,,1.0,Nurse Practitioner,50
+216617,187715260,Dawn,Gay,dawn.gay@datacourse.com,,0.09,Physician Assistant,97
+216917,187705822,Trevor,Garner,trevor.garner@datacourse.com,,1.0,Nurse Practitioner,50
+215585,187709046,Alexandria,Fuller,alexandria.fuller@datacourse.com,,1.0,Physician Assistant,97
+216296,187703794,Cody,Fuentes,cody.fuentes@datacourse.com,,1.0,Physician Assistant,97
+216759,187702702,Angela,Fry,angela.fry@datacourse.com,,0.75,Nurse Practitioner,50
+216870,187709488,Ryan,Fritz,ryan.fritz@datacourse.com,,0.6,Nurse Practitioner,50
+216845,187703326,Melissa,Franklin,melissa.franklin@datacourse.com,,1.0,Physician Assistant,97
+216929,187720954,Amanda,Foster,amanda.foster@datacourse.com,,1.0,Nurse Practitioner,50
+215586,187700596,Michael,Foley,michael.foley@datacourse.com,,1.0,Physician Assistant,97
+216357,187717444,Allen,Fletcher,allen.fletcher@datacourse.com,,0.5,Nurse Practitioner,50
+217075,187704340,Kelly,Ferrell,kelly.ferrell@datacourse.com,,0.9,Physician Assistant,97
+215552,187706758,David,Faulkner,david.faulkner@datacourse.com,,1.0,Nurse Practitioner,50
+217168,187709124,Yvonne,Farrell,yvonne.farrell@datacourse.com,,0.9,Physician Assistant,97
+218239,187709332,Sean,Ellison,sean.ellison@datacourse.com,,0.14,Physician Assistant,97
+216011,187706914,Brian,Edwards,brian.edwards@datacourse.com,,0.9,Physician Assistant,97
+216316,187704496,Jonathan,Dunlap,jonathan.dunlap@datacourse.com,,1.0,Physician Assistant,97
+216715,187702572,Rebecca,Douglas,rebecca.douglas@datacourse.com,,1.0,Physician Assistant,97
+218370,187707174,Jessica,Dougherty,jessica.dougherty@datacourse.com,,0.36,Social Worker - Clinical,80
+215418,187701714,Angel,Dorsey,angel.dorsey@datacourse.com,,1.0,Nurse Practitioner,50
+215341,187715416,Kathleen,Donovan,kathleen.donovan@datacourse.com,,0.48,Psychologist,68
+215455,187719914,David,Dixon,david.dixon@datacourse.com,,0.9,Physician Assistant,97
+215228,187717132,Steven,Dickson,steven.dickson@datacourse.com,,1.0,Nurse Practitioner,50
+215901,187723216,Howard,Dennis,howard.dennis@datacourse.com,,1.0,Nurse Practitioner,50
+215601,187709202,Mary,Davies,mary.davies@datacourse.com,,0.9,Physician Assistant,97
+216028,187711932,John,Daugherty,john.daugherty@datacourse.com,,1.0,Nurse Practitioner,50
+216504,187711178,Cheryl,Daniels,cheryl.daniels@datacourse.com,,1.0,Nurse Practitioner,50
+216581,187712400,Jacob,Curry,jacob.curry@datacourse.com,,1.0,Physician Assistant,97
+215580,187711100,Jessica,Cordova,jessica.cordova@datacourse.com,,1.0,Physician Assistant,97
+216477,187717756,Patrick,Cooper,patrick.cooper@datacourse.com,,1.0,Nurse Practitioner,50
+215721,187718848,Kelly,Compton,kelly.compton@datacourse.com,,1.0,Nurse Practitioner,50
+215387,187709748,Sheila,Combs,sheila.combs@datacourse.com,,1.0,Nurse Practitioner,50
+216041,187700154,Juan,Coffey,juan.coffey@datacourse.com,,0.9,Physician Assistant,97
+216096,187715546,Sean,Clayton,sean.clayton@datacourse.com,,1.0,Nurse Practitioner,50
+215300,187713648,Rachel,Chung,rachel.chung@datacourse.com,,1.0,Nurse Practitioner,50
+216276,187721734,Joseph,Christensen,joseph.christensen@datacourse.com,,0.75,Nurse Practitioner,50
+215865,187701974,Tracy,Chambers,tracy.chambers@datacourse.com,,1.0,Nurse Practitioner,50
+211008,187719082,Timothy,Carroll,timothy.carroll@datacourse.com,,0.43,Social Worker - Clinical,80
+215947,187705744,Jerome,Campos,jerome.campos@datacourse.com,,1.0,Physician Assistant,97
+216333,187708786,Thomas,Cameron,thomas.cameron@datacourse.com,,0.24,Psychologist,68
+213596,187701376,Charles,Camacho,charles.camacho@datacourse.com,,0.11,Physician Assistant,97
+216765,187717158,Matthew,Callahan,matthew.callahan@datacourse.com,,1.0,Physician Assistant,97
+215949,187724334,Derrick,Burgess,derrick.burgess@datacourse.com,,0.05,Physician Assistant,97
+213803,187707642,Cindy,Buchanan,cindy.buchanan@datacourse.com,,0.29,Psychologist,68
+217025,187713778,Patrick,Bryant,patrick.bryant@datacourse.com,,0.9,Nurse Practitioner,50
+216891,187714662,Elizabeth,Brock,elizabeth.brock@datacourse.com,,1.0,Nurse Practitioner,50
+215221,187700882,Courtney,Bradley,courtney.bradley@datacourse.com,,0.75,Physician Assistant,97
+216144,187713752,Steven,Bonilla,steven.bonilla@datacourse.com,,1.0,Nurse Practitioner,50
+215321,187715598,Calvin,Blankenship,calvin.blankenship@datacourse.com,,0.07,Midwife,42
+216384,187715572,Anita,Bird,anita.bird@datacourse.com,,1.0,Physician Assistant,97
+215297,187721162,Matthew,Best,matthew.best@datacourse.com,,0.5,Physician Assistant,97
+216080,187719342,Brittney,Bernard,brittney.bernard@datacourse.com,,0.3,Nurse Practitioner,50
+215298,187719706,Sandra,Beltran,sandra.beltran@datacourse.com,,1.0,Specialist,89
+216121,187716794,Christopher,Beard,christopher.beard@datacourse.com,,0.9,Nurse Practitioner,50
+215632,187710294,Danielle,Bauer,danielle.bauer@datacourse.com,,1.0,Physician Assistant,97
+216409,187713180,Rhonda,Barrett,rhonda.barrett@datacourse.com,,0.9,Nurse Practitioner,50
+215323,187711412,Kyle,Arnold,kyle.arnold@datacourse.com,,0.9,Nurse Practitioner,50
+218052,187707434,Angela,Andrade,angela.andrade@datacourse.com,,0.9,Nurse Practitioner,50
+216789,187706108,Jerry,Adkins,jerry.adkins@datacourse.com,,1.0,Nurse Practitioner,50
+216717,187707044,Patrick,Acosta,patrick.acosta@datacourse.com,,1.0,Nurse Practitioner,50
+215176,187702858,David,Bruce,david.bruce@datacourse.com,Dr.,0.65,Diagnostic Radiology,30
+215178,187717990,Ashley,Vazquez,ashley.vazquez@datacourse.com,Dr.,0.8,Pathology,22
+215181,187706706,Kimberly,Bartlett,kimberly.bartlett@datacourse.com,Dr.,0.6,Pediatrics,37
+215182,187707486,Angela,Rocha,angela.rocha@datacourse.com,Dr.,1.0,Family Medicine,8
+215183,187701012,Matthew,Sherman,matthew.sherman@datacourse.com,Dr.,0.2,Pediatrics,37
+215184,187700102,Jose,Baker,jose.baker@datacourse.com,Dr.,0.65,Psychiatry & Neurology,86
+215188,187704158,Samantha,Whitaker,samantha.whitaker@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215189,187700700,Lisa,Townsend,lisa.townsend@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215191,187724152,Vincent,Castillo,vincent.castillo@datacourse.com,Dr.,0.37,Diagnostic Radiology,30
+215192,187708058,John,Boyle,john.boyle@datacourse.com,Dr.,0.19,Obstetrics & Gynecology,16
+215193,187709098,David,Benton,david.benton@datacourse.com,Dr.,0.45,Pediatrics,37
+215195,187702312,Debra,Cain,debra.cain@datacourse.com,Dr.,1.0,Family Medicine,8
+215197,187716300,Stephanie,Mcconnell,stephanie.mcconnell@datacourse.com,Dr.,0.85,Surgery,2
+215198,187713336,Matthew,Fernandez,matthew.fernandez@datacourse.com,Dr.,1.0,Internal Medicine,11
+215199,187702780,Nicole,Bray,nicole.bray@datacourse.com,Dr.,1.0,Internal Medicine,11
+215202,187719550,Heather,Liu,heather.liu@datacourse.com,Dr.,0.41,Surgery,2
+215203,187712686,John,Gonzalez,john.gonzalez@datacourse.com,Dr.,0.36,Physical Medicine & Rehabilitation,25
+215207,187714480,Rhonda,Delgado,rhonda.delgado@datacourse.com,Dr.,0.85,Diagnostic Radiology,30
+215210,187718250,Cassandra,Salazar,cassandra.salazar@datacourse.com,Dr.,0.25,Psychologist,68
+215216,187715208,Deborah,Barrera,deborah.barrera@datacourse.com,Dr.,0.67,Obstetrics & Gynecology,16
+215217,187722644,Susan,Chaney,susan.chaney@datacourse.com,Dr.,0.45,Internal Medicine,11
+215218,187700362,Steven,Walton,steven.walton@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215220,187721890,Julie,Harrington,julie.harrington@datacourse.com,Dr.,0.95,Pediatrics,37
+215226,187712010,Anna,Travis,anna.travis@datacourse.com,Dr.,0.9,Internal Medicine,11
+215227,187702910,Mary,Estrada,mary.estrada@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215230,187711542,Steven,Lyons,steven.lyons@datacourse.com,Dr.,0.96,Internal Medicine,11
+215231,187718562,Melissa,Barr,melissa.barr@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215233,187713310,Travis,Walter,travis.walter@datacourse.com,Dr.,0.85,Nuclear Medicine,36
+215234,187701558,Tracy,Hays,tracy.hays@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215236,187716430,Anna,Phelps,anna.phelps@datacourse.com,Dr.,1.0,Family Medicine,8
+215239,187703898,Cody,Woodard,cody.woodard@datacourse.com,Dr.,0.2,Pediatrics,37
+215242,187723918,Sheila,Vincent,sheila.vincent@datacourse.com,Dr.,1.0,Psychiatry & Neurology,86
+215243,187701194,Wendy,Conley,wendy.conley@datacourse.com,Dr.,1.0,Family Medicine,8
+215244,187710684,Karen,Cisneros,karen.cisneros@datacourse.com,Dr.,0.45,Ophthalmology,18
+215246,187712192,Patricia,Massey,patricia.massey@datacourse.com,Dr.,0.57,Internal Medicine,11
+215247,187701948,Justin,York,justin.york@datacourse.com,Dr.,0.58,Family Medicine,8
+215248,187719680,Michael,Sims,michael.sims@datacourse.com,Dr.,0.41,Psychologist,68
+215250,187714688,Kimberly,Boone,kimberly.boone@datacourse.com,Dr.,0.6,Internal Medicine,11
+215251,187713076,Sheri,Mckenzie,sheri.mckenzie@datacourse.com,Dr.,1.0,Family Medicine,8
+215252,187711334,Elizabeth,Fitzpatrick,elizabeth.fitzpatrick@datacourse.com,Dr.,0.42,Internal Medicine,11
+215254,187705094,Patrick,Rodriguez,patrick.rodriguez@datacourse.com,Dr.,1.0,Surgery - Vascular Surgery,77
+215258,187704366,Amber,Beck,amber.beck@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215261,187700518,Yesenia,Page,yesenia.page@datacourse.com,Dr.,0.95,Pediatrics,37
+215266,187715442,Edward,Ryan,edward.ryan@datacourse.com,Dr.,0.93,Internal Medicine,11
+215267,187704028,Jacqueline,Quinn,jacqueline.quinn@datacourse.com,Dr.,0.61,Internal Medicine,11
+215269,187702416,Deborah,Carpenter,deborah.carpenter@datacourse.com,Dr.,0.86,Obstetrics & Gynecology,16
+215275,187718380,Elizabeth,Norman,elizabeth.norman@datacourse.com,Dr.,1.0,Family Medicine,8
+215276,187721630,Robert,Mccarty,robert.mccarty@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215278,187711490,Cheyenne,Castaneda,cheyenne.castaneda@datacourse.com,Dr.,0.65,Diagnostic Radiology,30
+215280,187705068,Lynn,Villegas,lynn.villegas@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215281,187715962,Melissa,Hardin,melissa.hardin@datacourse.com,Dr.,0.9,Internal Medicine,11
+215282,187702104,Noah,Woods,noah.woods@datacourse.com,Dr.,1.0,Internal Medicine,11
+215283,187718354,Carolyn,Melton,carolyn.melton@datacourse.com,Dr.,0.62,Internal Medicine,11
+215285,187700934,Mary,Stuart,mary.stuart@datacourse.com,Dr.,0.19,Pediatrics,37
+215288,187720200,Tiffany,Cunningham,tiffany.cunningham@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215289,187712218,Nicole,Palmer,nicole.palmer@datacourse.com,Dr.,1.0,Family Medicine,8
+215290,187715182,Patrick,Gates,patrick.gates@datacourse.com,Dr.,0.28,Ophthalmology,18
+215291,187706602,Margaret,Boyer,margaret.boyer@datacourse.com,Dr.,0.8,Family Medicine,8
+215294,187709306,Samantha,Stanton,samantha.stanton@datacourse.com,Dr.,0.8,Internal Medicine,11
+215295,187700024,William,Snow,william.snow@datacourse.com,Dr.,1.0,Pediatrics,37
+215307,187708084,Brandon,Lynn,brandon.lynn@datacourse.com,Dr.,0.7,Internal Medicine,11
+215309,187701116,Daniel,Woodward,daniel.woodward@datacourse.com,Dr.,0.75,Family Medicine,8
+215310,187701922,Jill,Orr,jill.orr@datacourse.com,Dr.,1.0,Family Medicine,8
+215311,187709176,Cynthia,Serrano,cynthia.serrano@datacourse.com,Dr.,1.0,Family Medicine,8
+215315,187711048,Jodi,Kidd,jodi.kidd@datacourse.com,Dr.,0.15,Pathology,22
+215319,187704418,Janet,Bullock,janet.bullock@datacourse.com,Dr.,0.15,Internal Medicine,11
+215320,187702624,Tiffany,Sparks,tiffany.sparks@datacourse.com,Dr.,0.5,Internal Medicine,11
+215324,187706628,Elizabeth,Lewis,elizabeth.lewis@datacourse.com,Dr.,0.55,Internal Medicine,11
+215325,187701038,April,Barry,april.barry@datacourse.com,Dr.,0.02,Orthopaedic Surgery,20
+215326,187709410,Shelly,Carlson,shelly.carlson@datacourse.com,Dr.,0.44,Internal Medicine,11
+215327,187722618,Kevin,Esparza,kevin.esparza@datacourse.com,Dr.,0.34,Diagnostic Radiology,30
+215328,187710762,Thomas,Guzman,thomas.guzman@datacourse.com,Dr.,1.0,Surgery,2
+215331,187719784,Jacqueline,Olson,jacqueline.olson@datacourse.com,Dr.,0.9,Internal Medicine,11
+215332,187712608,Renee,Villanueva,renee.villanueva@datacourse.com,Dr.,1.0,Internal Medicine,11
+215338,187713206,Julian,Holland,julian.holland@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215339,187722800,Steven,Pineda,steven.pineda@datacourse.com,Dr.,0.5,Psychiatry & Neurology,86
+215340,187706212,Cheryl,Sexton,cheryl.sexton@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+215342,187712322,Aaron,Arias,aaron.arias@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215344,187717548,Stephanie,Drake,stephanie.drake@datacourse.com,Dr.,0.8,Diagnostic Radiology,30
+215345,187706238,Austin,Sloan,austin.sloan@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215349,187705328,Brian,Brown,brian.brown@datacourse.com,Dr.,0.9,Family Medicine,8
+215350,187701090,Austin,Elliott,austin.elliott@datacourse.com,Dr.,1.0,Surgery,2
+215352,187713544,Fernando,Trujillo,fernando.trujillo@datacourse.com,Dr.,0.3,Internal Medicine,11
+215355,187715676,Eric,Cross,eric.cross@datacourse.com,Dr.,1.0,Internal Medicine,11
+215358,187722930,Sara,Olsen,sara.olsen@datacourse.com,Dr.,0.97,Internal Medicine,11
+215365,187707694,David,Stephens,david.stephens@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215367,187723060,Linda,Armstrong,linda.armstrong@datacourse.com,Dr.,0.62,Family Medicine,8
+215369,187718328,Kimberly,Bass,kimberly.bass@datacourse.com,Dr.,0.75,Internal Medicine,11
+215371,187710138,Brianna,Decker,brianna.decker@datacourse.com,Dr.,0.95,Internal Medicine,11
+215373,187706420,Erin,Miles,erin.miles@datacourse.com,Dr.,0.72,Internal Medicine,11
+215374,187707278,Cindy,Noble,cindy.noble@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215376,187723736,Carrie,Mayo,carrie.mayo@datacourse.com,Dr.,1.0,Internal Medicine,11
+215380,187701818,Sandra,Ayala,sandra.ayala@datacourse.com,Dr.,0.2,Family Medicine,8
+215381,187718770,Daniel,Shelton,daniel.shelton@datacourse.com,Dr.,1.0,Family Medicine,8
+215389,187704652,Alicia,Schwartz,alicia.schwartz@datacourse.com,Dr.,0.75,Psychiatry & Neurology,86
+215391,187705042,Amanda,Valdez,amanda.valdez@datacourse.com,Dr.,0.52,Internal Medicine,11
+215395,187723138,Nicholas,Duke,nicholas.duke@datacourse.com,Dr.,0.75,Pathology,22
+215398,187707408,Matthew,Tate,matthew.tate@datacourse.com,Dr.,0.7,Family Medicine,8
+215399,187723814,Robin,Parks,robin.parks@datacourse.com,Dr.,1.0,Surgery,2
+215400,187722072,Samuel,Clay,samuel.clay@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215401,187720538,Elizabeth,Young,elizabeth.young@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215404,187716690,Gregory,Mcguire,gregory.mcguire@datacourse.com,Dr.,0.65,Physical Medicine & Rehabilitation,25
+215409,187703404,David,Kline,david.kline@datacourse.com,Dr.,0.96,Internal Medicine,11
+215411,187716768,Todd,Cooke,todd.cooke@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215413,187723476,Bryce,Collier,bryce.collier@datacourse.com,Dr.,1.0,Family Medicine,8
+215417,187701246,Michelle,Benitez,michelle.benitez@datacourse.com,Dr.,0.8,Diagnostic Radiology,30
+215419,187710736,Emily,Underwood,emily.underwood@datacourse.com,Dr.,1.0,Pediatrics,37
+215420,187706186,Steven,Richmond,steven.richmond@datacourse.com,Dr.,1.0,Nuclear Medicine,36
+215421,187723190,Edward,Ibarra,edward.ibarra@datacourse.com,Dr.,0.19,Orthopaedic Surgery,20
+215423,187703586,Benjamin,Carr,benjamin.carr@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215424,187702936,Jason,Hawkins,jason.hawkins@datacourse.com,Dr.,0.5,Surgery - Surgical Critical Care,28
+215426,187720876,Tony,Bright,tony.bright@datacourse.com,Dr.,0.27,Family Medicine,8
+215427,187701506,Brian,Gordon,brian.gordon@datacourse.com,Dr.,0.8,Obstetrics & Gynecology,16
+215431,187710970,Jennifer,Sutton,jennifer.sutton@datacourse.com,Dr.,0.85,Diagnostic Radiology,30
+215436,187706056,James,Kane,james.kane@datacourse.com,Dr.,0.82,Internal Medicine,11
+215437,187706030,Nicole,Rivas,nicole.rivas@datacourse.com,Dr.,0.93,Internal Medicine,11
+215443,187722176,Dawn,Morris,dawn.morris@datacourse.com,Dr.,0.8,Orthopaedic Surgery,20
+215444,187722384,Lori,Ballard,lori.ballard@datacourse.com,Dr.,0.5,Family Medicine,8
+215445,187715936,Robert,Cook,robert.cook@datacourse.com,Dr.,1.0,Internal Medicine,11
+215446,187710164,Thomas,Nelson,thomas.nelson@datacourse.com,Dr.,0.76,Diagnostic Radiology,30
+215447,187709930,William,Mclean,william.mclean@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215450,187707018,Kenneth,Kelley,kenneth.kelley@datacourse.com,Dr.,0.82,Internal Medicine,11
+215461,187712166,Kendra,Allen,kendra.allen@datacourse.com,Dr.,0.5,Family Medicine,8
+215464,187716898,Sharon,Montoya,sharon.montoya@datacourse.com,Dr.,0.8,Pathology,22
+215465,187699972,Rachel,Cannon,rachel.cannon@datacourse.com,Dr.,0.95,Internal Medicine,11
+215466,187717002,Keith,Savage,keith.savage@datacourse.com,Dr.,0.6,Family Medicine,8
+215471,187709514,Maria,Curtis,maria.curtis@datacourse.com,Dr.,0.9,Internal Medicine,11
+215474,187711958,Marc,Russo,marc.russo@datacourse.com,Dr.,0.6,Emergency Medicine,93
+215477,187713856,Corey,Rhodes,corey.rhodes@datacourse.com,Dr.,1.0,Neurological Surgery,14
+215485,187712868,Amy,Glenn,amy.glenn@datacourse.com,Dr.,1.0,Internal Medicine,11
+215489,187703092,Robert,Landry,robert.landry@datacourse.com,Dr.,0.5,Family Medicine,8
+215490,187720122,Warren,Butler,warren.butler@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+215491,187709020,Jennifer,Sheppard,jennifer.sheppard@datacourse.com,Dr.,0.15,Family Medicine,8
+215505,187714272,Dylan,Simmons,dylan.simmons@datacourse.com,Dr.,0.49,Family Medicine,8
+215506,187722722,Patrick,Stewart,patrick.stewart@datacourse.com,Dr.,1.0,Hospitalist,C6
+215508,187713986,Amber,Goodman,amber.goodman@datacourse.com,Dr.,0.12,Internal Medicine,11
+215516,187720824,Maria,Roman,maria.roman@datacourse.com,Dr.,0.25,Internal Medicine,11
+215517,187723944,Peter,Lloyd,peter.lloyd@datacourse.com,Dr.,0.6,Diagnostic Radiology,30
+215518,187718146,Alexander,Tanner,alexander.tanner@datacourse.com,Dr.,1.0,Family Medicine,8
+215519,187702078,Danielle,Meyer,danielle.meyer@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+215521,187716404,Tanya,Levy,tanya.levy@datacourse.com,Dr.,1.0,Family Medicine,8
+215522,187722878,Heidi,Wilson,heidi.wilson@datacourse.com,Dr.,0.58,Diagnostic Radiology,30
+215525,187711516,Kelly,Roberson,kelly.roberson@datacourse.com,Dr.,0.4,Emergency Medicine,93
+215527,187711204,Lauren,Hines,lauren.hines@datacourse.com,Dr.,0.73,Emergency Medicine,93
+215529,187707876,Sandra,Peterson,sandra.peterson@datacourse.com,Dr.,1.0,Internal Medicine,11
+215533,187701350,William,Mooney,william.mooney@datacourse.com,Dr.,1.0,Family Medicine,8
+215534,187709254,Diana,Anthony,diana.anthony@datacourse.com,Dr.,1.0,Internal Medicine,11
+215540,187712712,Austin,Stevens,austin.stevens@datacourse.com,Dr.,0.4,Emergency Medicine,93
+215542,187707148,Kurt,Bell,kurt.bell@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215543,187707512,Jill,Kent,jill.kent@datacourse.com,Dr.,1.0,Internal Medicine,11
+215544,187709722,Shannon,Vaughan,shannon.vaughan@datacourse.com,Dr.,0.95,Nuclear Medicine,36
+215545,187722098,Maria,Harvey,maria.harvey@datacourse.com,Dr.,1.0,Internal Medicine,11
+215546,187714636,Nicole,Cobb,nicole.cobb@datacourse.com,Dr.,0.85,Obstetrics & Gynecology,16
+215547,187716014,Lauren,Figueroa,lauren.figueroa@datacourse.com,Dr.,0.9,Pediatrics,37
+215548,187718614,Michael,Rodgers,michael.rodgers@datacourse.com,Dr.,1.0,Family Medicine,8
+215550,187720564,Mark,Scott,mark.scott@datacourse.com,Dr.,0.11,Psychiatry & Neurology,86
+215551,187700258,Kathryn,Copeland,kathryn.copeland@datacourse.com,Dr.,1.0,Family Medicine,8
+215555,187705562,Hunter,Mccormick,hunter.mccormick@datacourse.com,Dr.,1.0,Internal Medicine,11
+215557,187708812,Cynthia,Winters,cynthia.winters@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215558,187721552,Anthony,Houston,anthony.houston@datacourse.com,Dr.,1.0,Obstetrics & Gynecology,16
+215561,187719992,Gabriel,Zimmerman,gabriel.zimmerman@datacourse.com,Dr.,1.0,Internal Medicine,11
+215563,187722540,Cheyenne,Mcclure,cheyenne.mcclure@datacourse.com,Dr.,0.2,Surgery - Vascular Surgery,77
+215566,187707070,Casey,Lane,casey.lane@datacourse.com,Dr.,0.41,Surgery - Surgical Critical Care,28
+215568,187717912,Jody,Norton,jody.norton@datacourse.com,Dr.,1.0,Pediatrics,37
+215572,187705848,Laura,Dean,laura.dean@datacourse.com,Dr.,1.0,Internal Medicine,11
+215573,187715520,Linda,Thompson,linda.thompson@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215576,187700128,Christy,Church,christy.church@datacourse.com,Dr.,0.95,Optometrist,41
+215579,187699894,Maurice,Rosales,maurice.rosales@datacourse.com,Dr.,1.0,Psychiatry & Neurology,86
+215590,187721526,Timothy,Lambert,timothy.lambert@datacourse.com,Dr.,0.25,Diagnostic Radiology,30
+215595,187701610,Marcus,Crane,marcus.crane@datacourse.com,Dr.,0.75,Pediatrics,37
+215597,187706498,Sandra,Blanchard,sandra.blanchard@datacourse.com,Dr.,0.68,Internal Medicine,11
+215598,187706940,Andrew,Griffin,andrew.griffin@datacourse.com,Dr.,1.0,Internal Medicine,11
+215603,187722254,David,Blake,david.blake@datacourse.com,Dr.,1.0,Family Medicine,8
+215605,187702208,James,Vaughn,james.vaughn@datacourse.com,Dr.,1.0,Thoracic Surgery (Cardiothoracic Vascular Surgery),33
+215611,187705588,Alan,Alexander,alan.alexander@datacourse.com,Dr.,0.7,Obstetrics & Gynecology,16
+215612,187713622,Heather,Black,heather.black@datacourse.com,Dr.,1.0,Orthopaedic Surgery,20
+215614,187713596,Jose,Li,jose.li@datacourse.com,Dr.,0.85,Diagnostic Radiology,30
+215615,187705016,Kristen,Mcknight,kristen.mcknight@datacourse.com,Dr.,0.9,Family Medicine,8
+215617,187707538,Paul,Shaw,paul.shaw@datacourse.com,Dr.,1.0,Internal Medicine,11
+215619,187711646,Denise,Pittman,denise.pittman@datacourse.com,Dr.,0.95,Internal Medicine,11
+215625,187716378,Tanya,Gaines,tanya.gaines@datacourse.com,Dr.,0.8,Surgery,2
+215626,187704444,Michael,Mckay,michael.mckay@datacourse.com,Dr.,0.97,Internal Medicine,11
+215628,187713258,Caroline,Henson,caroline.henson@datacourse.com,Dr.,0.5,Pathology,22
+215631,187718094,Victor,Davis,victor.davis@datacourse.com,Dr.,0.8,Family Medicine,8
+215633,187721240,Travis,Hunter,travis.hunter@datacourse.com,Dr.,0.95,Physical Medicine & Rehabilitation,25
+215634,187718588,Kari,Wood,kari.wood@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+215637,187714974,Jessica,Potts,jessica.potts@datacourse.com,Dr.,1.0,Family Medicine,8
+215641,187702156,Jacob,Guerrero,jacob.guerrero@datacourse.com,Dr.,1.0,Pediatrics,37
+215642,187703118,Eddie,Reese,eddie.reese@datacourse.com,Dr.,0.28,Obstetrics & Gynecology,16
+215643,187716248,Paul,Huynh,paul.huynh@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215646,187707772,Erika,Lam,erika.lam@datacourse.com,Dr.,0.87,Internal Medicine,11
+215653,187717704,Taylor,Hooper,taylor.hooper@datacourse.com,Dr.,0.57,Diagnostic Radiology,30
+215655,187721318,Daniel,Fischer,daniel.fischer@datacourse.com,Dr.,0.06,Diagnostic Radiology,30
+215656,187700414,Elizabeth,Gibson,elizabeth.gibson@datacourse.com,Dr.,0.85,Internal Medicine,11
+215659,187704288,Justin,Bautista,justin.bautista@datacourse.com,Dr.,1.0,Pediatrics,37
+215664,187723840,Troy,Zavala,troy.zavala@datacourse.com,Dr.,1.0,Family Medicine,8
+215670,187713154,Corey,Luna,corey.luna@datacourse.com,Dr.,0.8,Family Medicine,8
+215672,187711672,Jesse,Mann,jesse.mann@datacourse.com,Dr.,0.85,Diagnostic Radiology,30
+215674,187714870,Jacqueline,Glass,jacqueline.glass@datacourse.com,Dr.,0.8,Internal Medicine,11
+215679,187708474,Annette,Wilkinson,annette.wilkinson@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215680,187705900,Daniel,Kennedy,daniel.kennedy@datacourse.com,Dr.,1.0,Internal Medicine,11
+215683,187720746,Jason,Cline,jason.cline@datacourse.com,Dr.,0.95,Nuclear Medicine,36
+215686,187721916,Tina,Jordan,tina.jordan@datacourse.com,Dr.,0.6,Internal Medicine,11
+215688,187715910,Michael,Bradshaw,michael.bradshaw@datacourse.com,Dr.,0.5,Internal Medicine,11
+215691,187708240,Christopher,Kaiser,christopher.kaiser@datacourse.com,Dr.,1.0,Internal Medicine,11
+215692,187714922,Steven,Byrd,steven.byrd@datacourse.com,Dr.,0.66,Internal Medicine,11
+215693,187704106,Alicia,Levine,alicia.levine@datacourse.com,Dr.,0.9,Internal Medicine,11
+215697,187713024,Beth,Proctor,beth.proctor@datacourse.com,Dr.,0.68,Internal Medicine,11
+215698,187709462,Dennis,Becker,dennis.becker@datacourse.com,Dr.,0.9,Internal Medicine,11
+215699,187721110,Ashley,Fowler,ashley.fowler@datacourse.com,Dr.,0.85,Obstetrics & Gynecology,16
+215701,187722280,Patricia,Mason,patricia.mason@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215702,187706992,David,Roach,david.roach@datacourse.com,Dr.,0.13,Psychiatry & Neurology,86
+215703,187722462,Aaron,Wilcox,aaron.wilcox@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215705,187722358,Jennifer,Fox,jennifer.fox@datacourse.com,Dr.,0.52,Emergency Medicine,93
+215706,187703378,Ann,Mays,ann.mays@datacourse.com,Dr.,0.1,Pathology,22
+215708,187709618,Jo,Powers,jo.powers@datacourse.com,Dr.,0.6,Diagnostic Radiology,30
+215709,187700986,Abigail,Perry,abigail.perry@datacourse.com,Dr.,0.85,Surgery,2
+215710,187718666,Wesley,Burns,wesley.burns@datacourse.com,Dr.,0.75,Internal Medicine,11
+215711,187720772,Don,West,don.west@datacourse.com,Dr.,0.9,Pediatrics,37
+215713,187720460,Paula,Velazquez,paula.velazquez@datacourse.com,Dr.,0.72,Obstetrics & Gynecology,16
+215714,187712998,Heather,Avery,heather.avery@datacourse.com,Dr.,0.7,Pediatrics,37
+215717,187708552,Douglas,Bentley,douglas.bentley@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215720,187705250,John,Sweeney,john.sweeney@datacourse.com,Dr.,0.85,Internal Medicine,11
+215722,187703066,John,Ross,john.ross@datacourse.com,Dr.,0.93,Internal Medicine,11
+215725,187716560,Michael,Reilly,michael.reilly@datacourse.com,Dr.,0.5,Internal Medicine,11
+215726,187709696,Andrew,Lester,andrew.lester@datacourse.com,Dr.,0.95,Emergency Medicine,93
+215730,187705432,John,Steele,john.steele@datacourse.com,Dr.,0.9,Family Medicine,8
+215732,187717288,Antonio,Wagner,antonio.wagner@datacourse.com,Dr.,0.6,Family Medicine,8
+215733,187708734,Heather,Hoover,heather.hoover@datacourse.com,Dr.,0.8,Family Medicine,8
+215738,187711802,Jessica,Day,jessica.day@datacourse.com,Dr.,0.94,Internal Medicine,11
+215739,187720408,Jonathan,Wise,jonathan.wise@datacourse.com,Dr.,0.6,Family Medicine,8
+215741,187712738,Thomas,Thomas,thomas.thomas@datacourse.com,Dr.,0.9,Family Medicine,8
+215746,187700466,Deborah,Cowan,deborah.cowan@datacourse.com,Dr.,0.65,Dermatology,7
+215748,187715078,Jake,Bond,jake.bond@datacourse.com,Dr.,1.0,Family Medicine,8
+215751,187710450,Whitney,James,whitney.james@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215757,187719030,Patricia,Espinoza,patricia.espinoza@datacourse.com,Dr.,0.4,Internal Medicine,11
+215764,187702260,Ricardo,Bean,ricardo.bean@datacourse.com,Dr.,1.0,Family Medicine,8
+215765,187720278,Samantha,Berger,samantha.berger@datacourse.com,Dr.,0.67,Pediatrics,37
+215767,187717600,Matthew,Mathews,matthew.mathews@datacourse.com,Dr.,0.65,Diagnostic Radiology,30
+215769,187723450,Ronald,Moon,ronald.moon@datacourse.com,Dr.,0.12,Optometrist,41
+215770,187703040,Michael,Vargas,michael.vargas@datacourse.com,Dr.,0.69,Family Medicine,8
+215772,187708318,Eric,Craig,eric.craig@datacourse.com,Dr.,1.0,Internal Medicine,11
+215779,187703846,Melissa,Graham,melissa.graham@datacourse.com,Dr.,1.0,Pediatrics,37
+215780,187718978,Rhonda,Howe,rhonda.howe@datacourse.com,Dr.,1.0,Internal Medicine,11
+215781,187711724,John,Hale,john.hale@datacourse.com,Dr.,0.5,Family Medicine,8
+215782,187710008,Timothy,Spears,timothy.spears@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215783,187721968,Christopher,Solis,christopher.solis@datacourse.com,Dr.,0.5,Obstetrics & Gynecology,16
+215787,187708630,Christopher,Case,christopher.case@datacourse.com,Dr.,0.9,Family Medicine,8
+215788,187715988,John,Caldwell,john.caldwell@datacourse.com,Dr.,0.97,Psychiatry & Neurology,86
+215790,187715468,Laura,Briggs,laura.briggs@datacourse.com,Dr.,0.41,Surgery,2
+215791,187706836,Larry,Meadows,larry.meadows@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215794,187705692,Maria,Walls,maria.walls@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215795,187714220,Ivan,Romero,ivan.romero@datacourse.com,Dr.,0.32,Physical Medicine & Rehabilitation,25
+215797,187708136,Calvin,Solomon,calvin.solomon@datacourse.com,Dr.,0.8,Pathology,22
+215798,187704392,Mark,Jacobson,mark.jacobson@datacourse.com,Dr.,0.55,Pathology,22
+215799,187700492,Brian,Cruz,brian.cruz@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215802,187700856,Jesse,Gutierrez,jesse.gutierrez@datacourse.com,Dr.,0.15,Internal Medicine,11
+215804,187723398,Tammy,Pacheco,tammy.pacheco@datacourse.com,Dr.,0.3,Family Medicine,8
+215805,187717470,Paul,Singh,paul.singh@datacourse.com,Dr.,0.93,Orthopaedic Surgery,20
+215812,187709800,Daniel,Giles,daniel.giles@datacourse.com,Dr.,1.0,Obstetrics & Gynecology,16
+215815,187721500,Evelyn,Crawford,evelyn.crawford@datacourse.com,Dr.,0.6,Obstetrics & Gynecology,16
+215820,187704782,Aaron,Hubbard,aaron.hubbard@datacourse.com,Dr.,0.93,Internal Medicine,11
+215823,187704574,Anna,Calhoun,anna.calhoun@datacourse.com,Dr.,0.17,Internal Medicine,11
+215825,187715728,Janet,Martinez,janet.martinez@datacourse.com,Dr.,0.95,Pathology,22
+215826,187701896,Keith,Cardenas,keith.cardenas@datacourse.com,Dr.,0.1,Anesthesiology,5
+215827,187708890,Tanya,Ellis,tanya.ellis@datacourse.com,Dr.,0.6,Orthopaedic Surgery,20
+215828,187700804,Zachary,Dickerson,zachary.dickerson@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215834,187701740,Linda,Ferguson,linda.ferguson@datacourse.com,Dr.,0.75,Pediatrics,37
+215836,187710086,Dustin,Kelly,dustin.kelly@datacourse.com,Dr.,0.5,Internal Medicine,11
+215837,187720018,Candace,Kerr,candace.kerr@datacourse.com,Dr.,1.0,Family Medicine,8
+215838,187721474,John,Potter,john.potter@datacourse.com,Dr.,1.0,Surgery,2
+215841,187707668,James,Reeves,james.reeves@datacourse.com,Dr.,0.97,Internal Medicine,11
+215843,187700310,Juan,Larson,juan.larson@datacourse.com,Dr.,0.7,Internal Medicine,11
+215845,187703456,Shane,Haas,shane.haas@datacourse.com,Dr.,0.9,Family Medicine,8
+215848,187723294,Bob,Parker,bob.parker@datacourse.com,Dr.,1.0,Pediatrics,37
+215853,187704626,Justin,Bolton,justin.bolton@datacourse.com,Dr.,0.6,Pathology,22
+215855,187715052,April,Summers,april.summers@datacourse.com,Dr.,0.5,Pathology,22
+215858,187704860,Justin,Fleming,justin.fleming@datacourse.com,Dr.,0.9,Internal Medicine,11
+215859,187702884,Tony,Ramos,tony.ramos@datacourse.com,Dr.,0.82,Internal Medicine,11
+215860,187700830,Ashlee,Vang,ashlee.vang@datacourse.com,Dr.,0.2,Internal Medicine,11
+215861,187702182,Nicole,Lowe,nicole.lowe@datacourse.com,Dr.,0.05,Pathology,22
+215862,187719472,Derek,Donaldson,derek.donaldson@datacourse.com,Dr.,1.0,Pediatrics,37
+215867,187713518,Roberto,Benjamin,roberto.benjamin@datacourse.com,Dr.,1.0,Family Medicine,8
+215871,187703976,David,Mata,david.mata@datacourse.com,Dr.,0.8,Internal Medicine,11
+215875,187702494,Linda,Welch,linda.welch@datacourse.com,Dr.,0.8,Diagnostic Radiology,30
+215876,187721292,Nichole,Pope,nichole.pope@datacourse.com,Dr.,1.0,Internal Medicine,11
+215878,187718016,Brooke,Macdonald,brooke.macdonald@datacourse.com,Dr.,0.66,Diagnostic Radiology,30
+215879,187707564,Valerie,Torres,valerie.torres@datacourse.com,Dr.,0.8,Internal Medicine,11
+215881,187712530,Diamond,Randall,diamond.randall@datacourse.com,Dr.,0.9,Family Medicine,8
+215887,187708968,Kevin,Richards,kevin.richards@datacourse.com,Dr.,0.76,Diagnostic Radiology,30
+215889,187706394,Michele,Acevedo,michele.acevedo@datacourse.com,Dr.,0.55,Surgery - Vascular Surgery,77
+215891,187706680,Kevin,Knox,kevin.knox@datacourse.com,Dr.,0.45,Psychiatry & Neurology,86
+215892,187708110,Tanya,Green,tanya.green@datacourse.com,Dr.,0.16,Internal Medicine,11
+215893,187712296,Austin,Gould,austin.gould@datacourse.com,Dr.,0.7,Internal Medicine,11
+215895,187705770,Lisa,Mccall,lisa.mccall@datacourse.com,Dr.,0.6,Family Medicine,8
+215896,187722566,Richard,Montes,richard.montes@datacourse.com,Dr.,0.93,Internal Medicine,11
+215897,187715104,Matthew,Brewer,matthew.brewer@datacourse.com,Dr.,1.0,Internal Medicine,11
+215898,187704262,Isaac,Preston,isaac.preston@datacourse.com,Dr.,1.0,Pediatrics,37
+215900,187711126,Michael,Booker,michael.booker@datacourse.com,Dr.,0.7,Family Medicine,8
+215903,187706862,William,Warner,william.warner@datacourse.com,Dr.,1.0,Family Medicine,8
+215904,187710242,Jennifer,Rosario,jennifer.rosario@datacourse.com,Dr.,0.45,Internal Medicine,11
+215905,187718926,Virginia,Krause,virginia.krause@datacourse.com,Dr.,1.0,Internal Medicine,11
+215909,187705406,Rodney,Lee,rodney.lee@datacourse.com,Dr.,0.2,Internal Medicine,11
+215910,187710424,Charles,Morales,charles.morales@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215913,187711594,Joshua,Holden,joshua.holden@datacourse.com,Dr.,0.55,Pathology,22
+215915,187724282,Mary,Gallegos,mary.gallegos@datacourse.com,Dr.,0.65,Pathology,22
+215917,187724074,Christopher,Schneider,christopher.schneider@datacourse.com,Dr.,0.73,Psychiatry & Neurology,86
+215918,187713934,Melissa,Ho,melissa.ho@datacourse.com,Dr.,0.95,Obstetrics & Gynecology,16
+215920,187723996,Vanessa,Wang,vanessa.wang@datacourse.com,Dr.,0.5,Physical Medicine & Rehabilitation,25
+215921,187712660,Stephanie,Baxter,stephanie.baxter@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+215925,187724178,Eric,Walters,eric.walters@datacourse.com,Dr.,1.0,Internal Medicine,11
+215926,187702052,Julie,Archer,julie.archer@datacourse.com,Dr.,0.07,Internal Medicine,11
+215928,187711620,Brian,Maddox,brian.maddox@datacourse.com,Dr.,0.7,Family Medicine,8
+215931,187702728,Antonio,Forbes,antonio.forbes@datacourse.com,Dr.,0.2,Internal Medicine,11
+215935,187702026,Kim,Cervantes,kim.cervantes@datacourse.com,Dr.,0.95,Pediatrics,37
+215941,187722774,Katelyn,Sandoval,katelyn.sandoval@datacourse.com,Dr.,0.93,Psychiatry & Neurology,86
+215943,187707252,David,Newman,david.newman@datacourse.com,Dr.,0.17,Family Medicine,8
+215944,187720356,Alexandria,Mcneil,alexandria.mcneil@datacourse.com,Dr.,0.14,Otolaryngology,4
+215945,187715832,Karen,Ali,karen.ali@datacourse.com,Dr.,1.0,Internal Medicine,11
+215950,187713674,Veronica,Rose,veronica.rose@datacourse.com,Dr.,1.0,Surgery,2
+215952,187713908,Emily,Lin,emily.lin@datacourse.com,Dr.,1.0,Emergency Medicine,93
+215953,187722124,Maria,Shepherd,maria.shepherd@datacourse.com,Dr.,0.7,Pediatrics,37
+215955,187703482,Gregory,Sampson,gregory.sampson@datacourse.com,Dr.,0.8,Family Medicine,8
+215957,187710554,Diane,Sanchez,diane.sanchez@datacourse.com,Dr.,0.85,Internal Medicine,11
+215959,187704678,Samantha,Peck,samantha.peck@datacourse.com,Dr.,0.67,Internal Medicine,11
+215963,187712244,Matthew,Lucero,matthew.lucero@datacourse.com,Dr.,0.9,Pediatrics,37
+215966,187714584,Kevin,Gilmore,kevin.gilmore@datacourse.com,Dr.,1.0,Internal Medicine,11
+215967,187710996,Timothy,Haley,timothy.haley@datacourse.com,Dr.,0.24,Pediatrics,37
+215968,187704236,Marc,Nichols,marc.nichols@datacourse.com,Dr.,0.8,Internal Medicine,11
+215974,187713960,Michael,Delacruz,michael.delacruz@datacourse.com,Dr.,1.0,Internal Medicine,11
+215975,187709358,Vickie,English,vickie.english@datacourse.com,Dr.,0.25,Internal Medicine,11
+215982,187702806,Lynn,Clark,lynn.clark@datacourse.com,Dr.,1.0,Internal Medicine,11
+215988,187714194,Samantha,Ware,samantha.ware@datacourse.com,Dr.,0.8,Family Medicine,8
+215989,187708994,Jessica,Berg,jessica.berg@datacourse.com,Dr.,1.0,Pediatrics,37
+215990,187704990,David,Pruitt,david.pruitt@datacourse.com,Dr.,0.75,Family Medicine,8
+215991,187717574,Tina,Sullivan,tina.sullivan@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+215992,187721396,Anita,Crosby,anita.crosby@datacourse.com,Dr.,0.93,Internal Medicine,11
+215993,187703716,Brian,Padilla,brian.padilla@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+215995,187723112,Tyler,Randolph,tyler.randolph@datacourse.com,Dr.,0.71,Diagnostic Radiology,30
+215997,187704548,Anthony,Reid,anthony.reid@datacourse.com,Dr.,0.25,Family Medicine,8
+215999,187718120,Melanie,Stanley,melanie.stanley@datacourse.com,Dr.,0.55,Internal Medicine,11
+216000,187716846,Jeffery,Moreno,jeffery.moreno@datacourse.com,Dr.,0.55,Internal Medicine,11
+216002,187706810,Scott,Jensen,scott.jensen@datacourse.com,Dr.,0.83,Psychiatry & Neurology,86
+216003,187712920,Brian,Finley,brian.finley@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216006,187719498,Susan,Barber,susan.barber@datacourse.com,Dr.,1.0,Internal Medicine,11
+216007,187715754,Richard,King,richard.king@datacourse.com,Dr.,0.8,Internal Medicine,11
+216009,187707226,David,Mercer,david.mercer@datacourse.com,Dr.,1.0,Family Medicine,8
+216013,187715858,Joshua,Morton,joshua.morton@datacourse.com,Dr.,0.3,Surgery - Vascular Surgery,77
+216015,187716196,Amanda,Matthews,amanda.matthews@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216017,187720382,Christine,Benson,christine.benson@datacourse.com,Dr.,1.0,Internal Medicine,11
+216019,187700752,Jacob,Huang,jacob.huang@datacourse.com,Dr.,0.65,Internal Medicine,11
+216021,187714428,Alyssa,Smith,alyssa.smith@datacourse.com,Dr.,0.5,Internal Medicine,11
+216022,187707330,Nicole,Stone,nicole.stone@datacourse.com,Dr.,0.6,Internal Medicine,11
+216026,187699998,Christopher,Parrish,christopher.parrish@datacourse.com,Dr.,0.58,Internal Medicine,11
+216027,187721994,Megan,Mora,megan.mora@datacourse.com,Dr.,0.8,Pediatrics,37
+216036,187721786,Cathy,Wade,cathy.wade@datacourse.com,Dr.,0.95,Pathology,22
+216038,187723788,Eric,Hendrix,eric.hendrix@datacourse.com,Dr.,1.0,Internal Medicine,11
+216039,187707590,Steven,Cantu,steven.cantu@datacourse.com,Dr.,1.0,Family Medicine,8
+216040,187710398,Yvette,Frost,yvette.frost@datacourse.com,Dr.,0.98,Internal Medicine,11
+216044,187705536,Sergio,Andersen,sergio.andersen@datacourse.com,Dr.,0.7,Psychiatry & Neurology,86
+216046,187710112,Jennifer,Gardner,jennifer.gardner@datacourse.com,Dr.,1.0,Internal Medicine,11
+216050,187709670,David,Gonzales,david.gonzales@datacourse.com,Dr.,0.3,Pediatrics,37
+216052,187722748,April,Stark,april.stark@datacourse.com,Dr.,0.05,Internal Medicine,11
+216053,187701584,John,Dodson,john.dodson@datacourse.com,Dr.,1.0,Internal Medicine,11
+216063,187700076,Jamie,Alvarado,jamie.alvarado@datacourse.com,Dr.,0.4,Family Medicine,8
+216064,187708578,Alexandra,Conrad,alexandra.conrad@datacourse.com,Dr.,0.5,Internal Medicine,11
+216065,187704522,Deborah,Flynn,deborah.flynn@datacourse.com,Dr.,1.0,Surgery - Vascular Surgery,77
+216068,187700284,Raymond,Franco,raymond.franco@datacourse.com,Dr.,1.0,Internal Medicine,11
+216069,187707824,Bradley,Christian,bradley.christian@datacourse.com,Dr.,0.01,Family Medicine,8
+216070,187717054,Shirley,Valenzuela,shirley.valenzuela@datacourse.com,Dr.,0.5,Internal Medicine,11
+216072,187723658,Timothy,Hayden,timothy.hayden@datacourse.com,Dr.,0.66,Pathology,22
+216075,187699920,Melissa,Maynard,melissa.maynard@datacourse.com,Dr.,0.85,Surgery,2
+216076,187708526,Michelle,Weiss,michelle.weiss@datacourse.com,Dr.,0.8,Pathology,22
+216082,187716222,Tara,Barker,tara.barker@datacourse.com,Dr.,0.76,Diagnostic Radiology,30
+216083,187721032,Trevor,Yang,trevor.yang@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+216085,187706368,Michelle,Hutchinson,michelle.hutchinson@datacourse.com,Dr.,1.0,Internal Medicine,11
+216086,187708006,Susan,Anderson,susan.anderson@datacourse.com,Dr.,1.0,Surgery,2
+216088,187712894,Tyler,Hart,tyler.hart@datacourse.com,Dr.,1.0,Surgery,2
+216099,187715000,Veronica,Shepard,veronica.shepard@datacourse.com,Dr.,1.0,Family Medicine,8
+216100,187706732,Amy,Payne,amy.payne@datacourse.com,Dr.,1.0,Psychiatry & Neurology,86
+216102,187700778,Julia,George,julia.george@datacourse.com,Dr.,0.85,Internal Medicine,11
+216104,187705458,Jose,Cabrera,jose.cabrera@datacourse.com,Dr.,0.3,Internal Medicine,11
+216106,187700206,Joshua,Arroyo,joshua.arroyo@datacourse.com,Dr.,0.7,Family Medicine,8
+216108,187702234,Joseph,Richard,joseph.richard@datacourse.com,Dr.,1.0,Internal Medicine,11
+216109,187712556,Karen,Estes,karen.estes@datacourse.com,Dr.,0.75,Internal Medicine,11
+216111,187717808,Jason,Leonard,jason.leonard@datacourse.com,Dr.,0.9,Thoracic Surgery (Cardiothoracic Vascular Surgery),33
+216112,187704886,Dustin,Spence,dustin.spence@datacourse.com,Dr.,1.0,Family Medicine,8
+216116,187705302,Hannah,Flowers,hannah.flowers@datacourse.com,Dr.,1.0,Internal Medicine,11
+216117,187703430,Madeline,Herman,madeline.herman@datacourse.com,Dr.,0.21,Surgery,2
+216119,187716040,Kenneth,Blackburn,kenneth.blackburn@datacourse.com,Dr.,0.29,Internal Medicine,11
+216123,187719368,Jessica,Mcclain,jessica.mcclain@datacourse.com,Dr.,0.55,Family Medicine,8
+216126,187709566,Bailey,Lang,bailey.lang@datacourse.com,Dr.,0.5,Family Medicine,8
+216129,187713570,Tyrone,Watson,tyrone.watson@datacourse.com,Dr.,0.54,Internal Medicine,11
+216133,187719238,Michael,Harding,michael.harding@datacourse.com,Dr.,1.0,Internal Medicine,11
+216134,187703170,Raymond,Middleton,raymond.middleton@datacourse.com,Dr.,0.9,Family Medicine,8
+216135,187715312,Phillip,Brennan,phillip.brennan@datacourse.com,Dr.,0.75,Diagnostic Radiology,30
+216136,187703144,Audrey,Rubio,audrey.rubio@datacourse.com,Dr.,0.3,Obstetrics & Gynecology,16
+216140,187723034,Marisa,Campbell,marisa.campbell@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216141,187710268,John,Duran,john.duran@datacourse.com,Dr.,1.0,Internal Medicine,11
+216142,187713440,Jessica,Chase,jessica.chase@datacourse.com,Dr.,1.0,Family Medicine,8
+216145,187721370,Louis,Ortiz,louis.ortiz@datacourse.com,Dr.,0.2,Surgery - Vascular Surgery,77
+216146,187716924,Stephanie,Yu,stephanie.yu@datacourse.com,Dr.,0.57,Internal Medicine,11
+216150,187717340,Christine,Cox,christine.cox@datacourse.com,Dr.,1.0,Orthopaedic Surgery,20
+216158,187708916,Patty,Greene,patty.greene@datacourse.com,Dr.,0.5,Pediatrics,37
+216161,187723606,Rebecca,Skinner,rebecca.skinner@datacourse.com,Dr.,1.0,Internal Medicine,11
+216162,187720226,Marvin,Weber,marvin.weber@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216167,187721656,Maria,Brandt,maria.brandt@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216168,187721084,Michelle,Murillo,michelle.murillo@datacourse.com,Dr.,1.0,Obstetrics & Gynecology,16
+216170,187700440,Tara,Clarke,tara.clarke@datacourse.com,Dr.,0.9,Thoracic Surgery (Cardiothoracic Vascular Surgery),33
+216172,187701844,Margaret,Webb,margaret.webb@datacourse.com,Dr.,0.68,Internal Medicine,11
+216173,187721136,Paula,Browning,paula.browning@datacourse.com,Dr.,1.0,Family Medicine,8
+216178,187723372,Kenneth,Garza,kenneth.garza@datacourse.com,Dr.,0.9,Internal Medicine,11
+216181,187707798,Rhonda,Rush,rhonda.rush@datacourse.com,Dr.,0.9,Pediatrics,37
+216184,187708760,Breanna,Harrell,breanna.harrell@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216185,187707746,Paula,Blackwell,paula.blackwell@datacourse.com,Dr.,1.0,Internal Medicine,11
+216186,187714844,Alison,Rios,alison.rios@datacourse.com,Dr.,0.8,Internal Medicine,11
+216187,187715286,Daniel,Velasquez,daniel.velasquez@datacourse.com,Dr.,0.9,Obstetrics & Gynecology,16
+216188,187705666,Kristin,Wong,kristin.wong@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216189,187713284,Matthew,Bridges,matthew.bridges@datacourse.com,Dr.,0.8,Obstetrics & Gynecology,16
+216190,187720096,Erica,Deleon,erica.deleon@datacourse.com,Dr.,0.5,Internal Medicine,11
+216191,187719160,Michael,Wright,michael.wright@datacourse.com,Dr.,0.5,Family Medicine,8
+216193,187703638,William,Ruiz,william.ruiz@datacourse.com,Dr.,0.6,Family Medicine,8
+216194,187701324,Joel,Walsh,joel.walsh@datacourse.com,Dr.,0.28,Orthopaedic Surgery,20
+216197,187703768,Devon,Riggs,devon.riggs@datacourse.com,Dr.,0.95,Pathology,22
+216202,187713882,Jerry,Shaffer,jerry.shaffer@datacourse.com,Dr.,1.0,Internal Medicine,11
+216203,187713726,Brittany,Davenport,brittany.davenport@datacourse.com,Dr.,1.0,Family Medicine,8
+216206,187700960,Melissa,Silva,melissa.silva@datacourse.com,Dr.,1.0,Family Medicine,8
+216212,187724100,Mark,Gray,mark.gray@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216213,187717236,Robert,Marks,robert.marks@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216215,187722982,Stephanie,Orozco,stephanie.orozco@datacourse.com,Dr.,0.55,Family Medicine,8
+216219,187716092,Jessica,Humphrey,jessica.humphrey@datacourse.com,Dr.,1.0,Pediatrics,37
+216223,187723164,Barbara,Golden,barbara.golden@datacourse.com,Dr.,1.0,Pediatrics,37
+216225,187705120,Cathy,Terry,cathy.terry@datacourse.com,Dr.,0.22,Internal Medicine,11
+216227,187712140,Robert,Gillespie,robert.gillespie@datacourse.com,Dr.,0.58,Internal Medicine,11
+216228,187713362,Vanessa,Hill,vanessa.hill@datacourse.com,Dr.,0.72,Internal Medicine,11
+216232,187722436,Danny,Stout,danny.stout@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216233,187710632,Matthew,Cuevas,matthew.cuevas@datacourse.com,Dr.,0.35,Diagnostic Radiology,30
+216235,187714792,Nicholas,Bailey,nicholas.bailey@datacourse.com,Dr.,1.0,Family Medicine,8
+216238,187716586,Chase,Pace,chase.pace@datacourse.com,Dr.,0.6,Internal Medicine,11
+216242,187710944,Eric,Mathis,eric.mathis@datacourse.com,Dr.,1.0,Family Medicine,8
+216246,187704808,Lee,Hampton,lee.hampton@datacourse.com,Dr.,0.26,Psychologist,68
+216247,187720616,Michael,Werner,michael.werner@datacourse.com,Dr.,0.97,Obstetrics & Gynecology,16
+216248,187706004,Gregory,Mendez,gregory.mendez@datacourse.com,Dr.,0.8,Obstetrics & Gynecology,16
+216250,187720512,Bruce,Wilkerson,bruce.wilkerson@datacourse.com,Dr.,0.93,Internal Medicine,11
+216255,187716170,Dustin,Holloway,dustin.holloway@datacourse.com,Dr.,1.0,Pediatrics,37
+216258,187702546,Ricky,Jenkins,ricky.jenkins@datacourse.com,Dr.,1.0,Pediatrics,37
+216260,187705718,Ralph,Hess,ralph.hess@datacourse.com,Dr.,0.46,Obstetrics & Gynecology,16
+216261,187702962,Kristi,Singleton,kristi.singleton@datacourse.com,Dr.,0.8,Surgery,2
+216262,187713388,Teresa,Bryan,teresa.bryan@datacourse.com,Dr.,1.0,Urology,34
+216265,187715884,Patrick,Collins,patrick.collins@datacourse.com,Dr.,0.45,Diagnostic Radiology,30
+216266,187706888,Scott,Patton,scott.patton@datacourse.com,Dr.,0.5,Internal Medicine,11
+216268,187719264,Katie,Burch,katie.burch@datacourse.com,Dr.,0.95,Internal Medicine,11
+216269,187717392,Brooke,Farmer,brooke.farmer@datacourse.com,Dr.,1.0,Internal Medicine,11
+216274,187715702,Sergio,Swanson,sergio.swanson@datacourse.com,Dr.,0.9,Internal Medicine,11
+216278,187702000,Lori,Shields,lori.shields@datacourse.com,Dr.,1.0,Family Medicine,8
+216281,187720330,Jeffrey,Oneal,jeffrey.oneal@datacourse.com,Dr.,1.0,Hospitalist,C6
+216283,187716742,Debra,Carney,debra.carney@datacourse.com,Dr.,0.75,Family Medicine,8
+216284,187705510,Cindy,Meza,cindy.meza@datacourse.com,Dr.,0.86,Pediatrics,37
+216286,187710476,Stephen,Osborn,stephen.osborn@datacourse.com,Dr.,0.95,Obstetrics & Gynecology,16
+216288,187701454,Hannah,Dawson,hannah.dawson@datacourse.com,Dr.,1.0,Internal Medicine,11
+216289,187721864,Tanya,Hahn,tanya.hahn@datacourse.com,Dr.,0.76,Diagnostic Radiology,30
+216290,187707954,Billy,Stevenson,billy.stevenson@datacourse.com,Dr.,0.7,Pathology,22
+216292,187710866,Juan,Farley,juan.farley@datacourse.com,Dr.,0.8,Family Medicine,8
+216295,187714246,Amanda,Berry,amanda.berry@datacourse.com,Dr.,0.8,Internal Medicine,11
+216301,187712504,Charles,Ward,charles.ward@datacourse.com,Dr.,0.8,Internal Medicine,11
+216306,187718640,Christopher,Duncan,christopher.duncan@datacourse.com,Dr.,1.0,Internal Medicine,11
+216308,187715338,Lawrence,Andrews,lawrence.andrews@datacourse.com,Dr.,0.75,Pathology,22
+216311,187714012,Stephanie,Maldonado,stephanie.maldonado@datacourse.com,Dr.,0.71,Internal Medicine,11
+216312,187710190,Jerry,Good,jerry.good@datacourse.com,Dr.,0.9,Orthopaedic Surgery,20
+216317,187717314,William,May,william.may@datacourse.com,Dr.,1.0,Internal Medicine,11
+216318,187701402,Brent,Mcdaniel,brent.mcdaniel@datacourse.com,Dr.,1.0,Family Medicine,8
+216321,187718302,Andrea,Cochran,andrea.cochran@datacourse.com,Dr.,1.0,Pathology,22
+216322,187719524,Joel,Frey,joel.frey@datacourse.com,Dr.,0.2,Internal Medicine,11
+216324,187720252,Justin,Hammond,justin.hammond@datacourse.com,Dr.,0.88,Obstetrics & Gynecology,16
+216326,187718874,Karen,Wallace,karen.wallace@datacourse.com,Dr.,1.0,Internal Medicine,11
+216334,187719134,Jennifer,Moses,jennifer.moses@datacourse.com,Dr.,1.0,Surgery,2
+216336,187716638,Michael,Lozano,michael.lozano@datacourse.com,Dr.,0.67,Obstetrics & Gynecology,16
+216338,187722514,Mary,Lara,mary.lara@datacourse.com,Dr.,0.85,Obstetrics & Gynecology,16
+216340,187711438,Rhonda,Heath,rhonda.heath@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+216345,187711022,Gary,Mcintyre,gary.mcintyre@datacourse.com,Dr.,0.53,Psychiatry & Neurology,86
+216347,187700726,Christopher,Arellano,christopher.arellano@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+216349,187701792,Michael,Hancock,michael.hancock@datacourse.com,Dr.,1.0,Family Medicine,8
+216350,187712634,Meghan,Hayes,meghan.hayes@datacourse.com,Dr.,1.0,Pediatrics,37
+216351,187709384,Carrie,Osborne,carrie.osborne@datacourse.com,Dr.,0.18,Diagnostic Radiology,30
+216352,187717210,Amanda,Dudley,amanda.dudley@datacourse.com,Dr.,0.92,Internal Medicine,11
+216353,187714558,Gregg,Nunez,gregg.nunez@datacourse.com,Dr.,0.81,Emergency Medicine,93
+216354,187701428,Aaron,Grant,aaron.grant@datacourse.com,Dr.,0.3,Pediatrics,37
+216360,187723710,Jeffrey,Buckley,jeffrey.buckley@datacourse.com,Dr.,0.95,Pathology,22
+216368,187717496,John,Cortez,john.cortez@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+216374,187720902,Jennifer,Chan,jennifer.chan@datacourse.com,Dr.,1.0,Family Medicine,8
+216377,187711074,Christine,Goodwin,christine.goodwin@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216378,187721760,Robert,Odom,robert.odom@datacourse.com,Dr.,0.65,Pathology,22
+216382,187710060,Benjamin,Fitzgerald,benjamin.fitzgerald@datacourse.com,Dr.,0.7,Diagnostic Radiology,30
+216383,187719654,Joyce,Joseph,joyce.joseph@datacourse.com,Dr.,0.95,Internal Medicine,11
+216389,187702390,Melvin,Schroeder,melvin.schroeder@datacourse.com,Dr.,0.25,Internal Medicine,11
+216390,187718458,Maria,Contreras,maria.contreras@datacourse.com,Dr.,0.5,Family Medicine,8
+216391,187712270,John,Ford,john.ford@datacourse.com,Dr.,0.56,Internal Medicine,11
+216397,187703872,Wayne,Koch,wayne.koch@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216398,187715650,Ronald,Knapp,ronald.knapp@datacourse.com,Dr.,0.27,Internal Medicine,11
+216399,187704080,Shawna,Barnes,shawna.barnes@datacourse.com,Dr.,1.0,Obstetrics & Gynecology,16
+216402,187721266,Stacy,Jackson,stacy.jackson@datacourse.com,Dr.,1.0,Family Medicine,8
+216405,187717782,Christine,Mitchell,christine.mitchell@datacourse.com,Dr.,0.73,Surgery - Vascular Surgery,77
+216407,187707902,Benjamin,Alvarez,benjamin.alvarez@datacourse.com,Dr.,1.0,Family Medicine,8
+216408,187706160,Tina,Blevins,tina.blevins@datacourse.com,Dr.,1.0,Family Medicine,8
+216412,187717184,Danielle,Hendricks,danielle.hendricks@datacourse.com,Dr.,0.0,Physical Medicine & Rehabilitation,25
+216414,187722904,Randy,Braun,randy.braun@datacourse.com,Dr.,0.6,Pathology,22
+216417,187720304,Luis,Frye,luis.frye@datacourse.com,Dr.,1.0,Orthopaedic Surgery,20
+216419,187722228,Jeanne,Sanders,jeanne.sanders@datacourse.com,Dr.,1.0,Family Medicine,8
+216421,187707122,Brian,Herring,brian.herring@datacourse.com,Dr.,0.85,Internal Medicine,11
+216427,187723424,Jimmy,Erickson,jimmy.erickson@datacourse.com,Dr.,0.8,Pediatrics,37
+216428,187704132,Jennifer,Santos,jennifer.santos@datacourse.com,Dr.,0.85,Diagnostic Radiology,30
+216432,187718068,Jason,Galvan,jason.galvan@datacourse.com,Dr.,0.05,Pathology,22
+216435,187720486,Jose,Atkins,jose.atkins@datacourse.com,Dr.,0.65,Diagnostic Radiology,30
+216436,187723762,Luis,Stein,luis.stein@datacourse.com,Dr.,1.0,Obstetrics & Gynecology,16
+216438,187700908,Carla,Hinton,carla.hinton@datacourse.com,Dr.,0.3,Psychologist,68
+216441,187719628,Brianna,Marquez,brianna.marquez@datacourse.com,Dr.,0.8,Emergency Medicine,93
+216445,187719836,David,Burton,david.burton@datacourse.com,Dr.,0.75,Pediatrics,37
+216446,187711906,Russell,Rojas,russell.rojas@datacourse.com,Dr.,0.95,Nuclear Medicine,36
+216451,187706446,Juan,Duffy,juan.duffy@datacourse.com,Dr.,0.86,Emergency Medicine,93
+216452,187722202,Devin,Hood,devin.hood@datacourse.com,Dr.,1.0,Nuclear Medicine,36
+216453,187712452,Karen,Davidson,karen.davidson@datacourse.com,Dr.,0.45,Family Medicine,8
+216454,187714064,Mark,Austin,mark.austin@datacourse.com,Dr.,0.15,Internal Medicine,11
+216455,187703196,Malik,Garrison,malik.garrison@datacourse.com,Dr.,0.68,Internal Medicine,11
+216456,187709644,Dean,Morrison,dean.morrison@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216457,187702520,Sean,Hatfield,sean.hatfield@datacourse.com,Dr.,0.89,Pediatrics,37
+216458,187713700,Sherry,Dalton,sherry.dalton@datacourse.com,Dr.,1.0,Family Medicine,8
+216466,187711880,Sarah,Greer,sarah.greer@datacourse.com,Dr.,0.7,Diagnostic Radiology,30
+216467,187711282,Angela,Mendoza,angela.mendoza@datacourse.com,Dr.,0.62,Family Medicine,8
+216469,187707460,Christine,Blair,christine.blair@datacourse.com,Dr.,0.55,Pathology,22
+216471,187712114,John,Salinas,john.salinas@datacourse.com,Dr.,1.0,Pediatrics,37
+216475,187700648,Matthew,Kirk,matthew.kirk@datacourse.com,Dr.,0.7,Pathology,22
+216483,187709280,David,Chapman,david.chapman@datacourse.com,Dr.,0.2,Diagnostic Radiology,30
+216487,187700232,Samantha,Rogers,samantha.rogers@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216489,187722410,Caitlin,Davila,caitlin.davila@datacourse.com,Dr.,1.0,Internal Medicine,11
+216492,187717080,Kimberly,Stephenson,kimberly.stephenson@datacourse.com,Dr.,1.0,Internal Medicine,11
+216494,187704184,Mark,Little,mark.little@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216509,187704470,Amy,Khan,amy.khan@datacourse.com,Dr.,1.0,Family Medicine,8
+216512,187715780,Kenneth,Riley,kenneth.riley@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216516,187723502,Cole,Brady,cole.brady@datacourse.com,Dr.,1.0,Obstetrics & Gynecology,16
+216519,187709826,Rhonda,Chavez,rhonda.chavez@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216520,187710216,Amanda,Mcpherson,amanda.mcpherson@datacourse.com,Dr.,1.0,Pediatrics,37
+216525,187722020,Kelly,Hunt,kelly.hunt@datacourse.com,Dr.,0.63,Internal Medicine,11
+216526,187705926,Paula,Baird,paula.baird@datacourse.com,Dr.,0.49,Psychologist,68
+216528,187712764,Darrell,Dunn,darrell.dunn@datacourse.com,Dr.,0.06,Psychiatry & Neurology,86
+216532,187707928,Anita,Holmes,anita.holmes@datacourse.com,Dr.,1.0,Pediatrics,37
+216537,187722592,Jesse,Sanford,jesse.sanford@datacourse.com,Dr.,1.0,Internal Medicine,11
+216541,187712972,Jerome,Graves,jerome.graves@datacourse.com,Dr.,0.44,Orthopaedic Surgery,20
+216545,187716482,Patricia,Bates,patricia.bates@datacourse.com,Dr.,0.9,Family Medicine,8
+216546,187723684,Dominic,Ayers,dominic.ayers@datacourse.com,Dr.,0.6,Diagnostic Radiology,30
+216549,187724204,Ashlee,Conway,ashlee.conway@datacourse.com,Dr.,0.76,Diagnostic Radiology,30
+216550,187710346,Zachary,Rollins,zachary.rollins@datacourse.com,Dr.,0.7,Pediatrics,37
+216551,187717834,Robert,Holt,robert.holt@datacourse.com,Dr.,0.9,Pediatrics,37
+216552,187702598,Rebecca,Moss,rebecca.moss@datacourse.com,Dr.,0.4,Internal Medicine,11
+216553,187711698,April,Oconnell,april.oconnell@datacourse.com,Dr.,1.0,Internal Medicine,11
+216555,187714090,Eddie,Park,eddie.park@datacourse.com,Dr.,1.0,Family Medicine,8
+216556,187721604,James,Gamble,james.gamble@datacourse.com,Dr.,0.3,Internal Medicine,11
+216558,187709878,Brad,Chen,brad.chen@datacourse.com,Dr.,0.9,Obstetrics & Gynecology,16
+216560,187719940,Kelly,Cohen,kelly.cohen@datacourse.com,Dr.,1.0,Pediatrics,37
+216562,187701220,Kimberly,Baldwin,kimberly.baldwin@datacourse.com,Dr.,0.55,Internal Medicine,11
+216564,187715130,Thomas,Ashley,thomas.ashley@datacourse.com,Dr.,0.95,Pathology,22
+216565,187709774,Jake,Tucker,jake.tucker@datacourse.com,Dr.,0.5,Internal Medicine,11
+216571,187711464,Robert,Hull,robert.hull@datacourse.com,Dr.,1.0,Surgery - Surgical Oncology,91
+216576,187708292,Edward,Carey,edward.carey@datacourse.com,Dr.,0.33,Orthopaedic Surgery,20
+216577,187705484,Donna,Nielsen,donna.nielsen@datacourse.com,Dr.,0.69,Obstetrics & Gynecology,16
+216580,187705978,James,Weeks,james.weeks@datacourse.com,Dr.,0.92,Obstetrics & Gynecology,16
+216582,187702832,Brian,Wheeler,brian.wheeler@datacourse.com,Dr.,0.9,Orthopaedic Surgery,20
+216584,187718718,Joseph,Dominguez,joseph.dominguez@datacourse.com,Dr.,0.4,Internal Medicine,11
+216585,187720850,Mia,Gregory,mia.gregory@datacourse.com,Dr.,0.95,Internal Medicine,11
+216586,187708838,Jasmine,Francis,jasmine.francis@datacourse.com,Dr.,1.0,Ophthalmology,18
+216587,187718900,Pamela,Cooley,pamela.cooley@datacourse.com,Dr.,1.0,Internal Medicine,11
+216589,187700544,Stacey,Schmitt,stacey.schmitt@datacourse.com,Dr.,1.0,Family Medicine,8
+216590,187704054,Richard,Banks,richard.banks@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216592,187722852,Leslie,Kemp,leslie.kemp@datacourse.com,Dr.,0.47,Diagnostic Radiology,30
+216593,187709592,Dale,Merritt,dale.merritt@datacourse.com,Dr.,0.97,Internal Medicine,11
+216595,187719212,Steven,Hardy,steven.hardy@datacourse.com,Dr.,0.3,Internal Medicine,11
+216597,187702286,Jason,Grimes,jason.grimes@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216599,187716508,Danielle,Todd,danielle.todd@datacourse.com,Dr.,1.0,Family Medicine,8
+216602,187721344,Robert,Daniel,robert.daniel@datacourse.com,Dr.,0.47,Pediatrics,37
+216604,187714818,Cheryl,Logan,cheryl.logan@datacourse.com,Dr.,0.57,Family Medicine,8
+216605,187703560,Dawn,Pena,dawn.pena@datacourse.com,Dr.,0.96,Family Medicine,8
+216612,187700336,Adam,Murray,adam.murray@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216613,187712374,James,Hensley,james.hensley@datacourse.com,Dr.,0.5,Family Medicine,8
+216619,187710840,Annette,Colon,annette.colon@datacourse.com,Dr.,0.77,Internal Medicine,11
+216625,187721578,Jesse,Haynes,jesse.haynes@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216626,187718276,Kathleen,Harper,kathleen.harper@datacourse.com,Dr.,1.0,Internal Medicine,11
+216627,187708942,Peter,Castro,peter.castro@datacourse.com,Dr.,0.8,Surgery,2
+216628,187707304,Shane,Evans,shane.evans@datacourse.com,Dr.,0.85,Internal Medicine,11
+216629,187723346,Cynthia,Ingram,cynthia.ingram@datacourse.com,Dr.,0.9,Internal Medicine,11
+216631,187718510,Jessica,Macias,jessica.macias@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216639,187721682,Andrew,Rowe,andrew.rowe@datacourse.com,Dr.,0.13,Family Medicine,8
+216641,187701272,Robert,Stafford,robert.stafford@datacourse.com,Dr.,0.2,Pathology,22
+216643,187705796,Mariah,Dillon,mariah.dillon@datacourse.com,Dr.,0.4,Psychologist,68
+216644,187714532,Tina,Lucas,tina.lucas@datacourse.com,Dr.,0.55,Surgery - Vascular Surgery,77
+216650,187723268,Jeffrey,Freeman,jeffrey.freeman@datacourse.com,Dr.,1.0,Internal Medicine,11
+216651,187719316,Kristina,Huffman,kristina.huffman@datacourse.com,Dr.,0.26,Ophthalmology,18
+216654,187718406,Sandy,Doyle,sandy.doyle@datacourse.com,Dr.,0.18,Psychologist,68
+216656,187715494,Melissa,Floyd,melissa.floyd@datacourse.com,Dr.,0.93,Internal Medicine,11
+216659,187716118,Shannon,Barron,shannon.barron@datacourse.com,Dr.,1.0,Internal Medicine,11
+216660,187714038,Derek,Tran,derek.tran@datacourse.com,Dr.,0.5,Internal Medicine,11
+216661,187700180,Brady,Mckinney,brady.mckinney@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216665,187720044,David,Weaver,david.weaver@datacourse.com,Dr.,0.75,Internal Medicine,11
+216667,187718744,Matthew,Jennings,matthew.jennings@datacourse.com,Dr.,0.8,Transplant Surgery,C9
+216668,187705380,Veronica,Haney,veronica.haney@datacourse.com,Dr.,0.83,Internal Medicine,11
+216672,187722956,Vanessa,Terrell,vanessa.terrell@datacourse.com,Dr.,0.85,Surgery,2
+216674,187702468,Jeffrey,Hartman,jeffrey.hartman@datacourse.com,Dr.,0.65,Obstetrics & Gynecology,16
+216675,187713050,Christina,Boyd,christina.boyd@datacourse.com,Dr.,0.8,Internal Medicine,11
+216678,187703742,Jessica,Medina,jessica.medina@datacourse.com,Dr.,0.27,Obstetrics & Gynecology,16
+216680,187723008,Stephanie,Taylor,stephanie.taylor@datacourse.com,Dr.,1.0,Internal Medicine,11
+216681,187719576,Tracey,Mcgee,tracey.mcgee@datacourse.com,Dr.,0.15,Internal Medicine,11
+216682,187710502,Brenda,Brooks,brenda.brooks@datacourse.com,Dr.,1.0,Internal Medicine,11
+216684,187701168,Patricia,Hoffman,patricia.hoffman@datacourse.com,Dr.,0.17,Psychologist,68
+216686,187712478,Tammy,Livingston,tammy.livingston@datacourse.com,Dr.,1.0,Thoracic Surgery (Cardiothoracic Vascular Surgery),33
+216688,187714350,Tara,Lawrence,tara.lawrence@datacourse.com,Dr.,0.6,Family Medicine,8
+216690,187722826,Steven,Mccullough,steven.mccullough@datacourse.com,Dr.,1.0,Emergency Medicine,93
+216691,187710814,Brandon,Garrett,brandon.garrett@datacourse.com,Dr.,1.0,Plastic Surgery,24
+216697,187710710,Jennifer,Gallagher,jennifer.gallagher@datacourse.com,Dr.,0.57,Diagnostic Radiology,30
+216699,187704704,Tamara,Moody,tamara.moody@datacourse.com,Dr.,1.0,Surgery - Surgical Critical Care,28
+216702,187722488,Sarah,Morgan,sarah.morgan@datacourse.com,Dr.,0.9,Diagnostic Radiology,30
+216707,187704210,Lindsey,Casey,lindsey.casey@datacourse.com,Dr.,0.67,Internal Medicine,11
+216708,187714142,Lisa,Aguirre,lisa.aguirre@datacourse.com,Dr.,0.76,Diagnostic Radiology,30
+216710,187714376,Jennifer,Ramsey,jennifer.ramsey@datacourse.com,Dr.,0.93,Psychiatry & Neurology,86
+216713,187702754,Christine,Schaefer,christine.schaefer@datacourse.com,Dr.,1.0,Internal Medicine,11
+216716,187723970,Lisa,Hamilton,lisa.hamilton@datacourse.com,Dr.,0.55,Obstetrics & Gynecology,16
+216725,187713414,Tyler,Downs,tyler.downs@datacourse.com,Dr.,0.15,Internal Medicine,11
+216727,187713466,John,Friedman,john.friedman@datacourse.com,Dr.,0.97,Obstetrics & Gynecology,16
+216731,187716456,Jacqueline,Nolan,jacqueline.nolan@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216732,187711984,Francis,Manning,francis.manning@datacourse.com,Dr.,1.0,Internal Medicine,11
+216733,187716820,John,Porter,john.porter@datacourse.com,Dr.,0.65,Internal Medicine,11
+216734,187708864,Eric,Aguilar,eric.aguilar@datacourse.com,Dr.,0.75,Diagnostic Radiology,30
+216735,187703690,Sydney,Gill,sydney.gill@datacourse.com,Dr.,0.71,Diagnostic Radiology,30
+216736,187706342,John,Stokes,john.stokes@datacourse.com,Dr.,1.0,Obstetrics & Gynecology,16
+216738,187713804,Peter,Hurley,peter.hurley@datacourse.com,Dr.,1.0,Internal Medicine,11
+216742,187720720,Victoria,Jones,victoria.jones@datacourse.com,Dr.,0.48,Obstetrics & Gynecology,16
+216744,187722150,Matthew,Cummings,matthew.cummings@datacourse.com,Dr.,0.8,Pediatrics,37
+216747,187723528,Christopher,Molina,christopher.molina@datacourse.com,Dr.,0.92,Family Medicine,8
+216748,187706784,Austin,Hurst,austin.hurst@datacourse.com,Dr.,0.82,Internal Medicine,11
+216752,187704964,Tracy,Whitehead,tracy.whitehead@datacourse.com,Dr.,0.91,Internal Medicine,11
+216758,187710580,William,Perez,william.perez@datacourse.com,Dr.,0.97,Obstetrics & Gynecology,16
+216760,187704600,Erica,Paul,erica.paul@datacourse.com,Dr.,0.85,Internal Medicine,11
+216761,187710372,Nicholas,Frazier,nicholas.frazier@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216762,187702338,Leah,Short,leah.short@datacourse.com,Dr.,1.0,Internal Medicine,11
+216764,187705354,Tim,Hogan,tim.hogan@datacourse.com,Dr.,0.5,Family Medicine,8
+216767,187710788,Julie,Escobar,julie.escobar@datacourse.com,Dr.,0.9,Internal Medicine,11
+216768,187723632,Brian,Everett,brian.everett@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216769,187719186,Elizabeth,Mccarthy,elizabeth.mccarthy@datacourse.com,Dr.,0.9,Internal Medicine,11
+216773,187706472,Leslie,Mcbride,leslie.mcbride@datacourse.com,Dr.,0.8,Physical Medicine & Rehabilitation,25
+216780,187717730,Samantha,Ramirez,samantha.ramirez@datacourse.com,Dr.,1.0,Internal Medicine,11
+216782,187701870,Omar,Glover,omar.glover@datacourse.com,Dr.,0.26,Internal Medicine,11
+216785,187714610,Charles,Patrick,charles.patrick@datacourse.com,Dr.,1.0,Thoracic Surgery (Cardiothoracic Vascular Surgery),33
+216787,187711360,Lauren,Schultz,lauren.schultz@datacourse.com,Dr.,0.78,Internal Medicine,11
+216791,187717522,Jocelyn,Calderon,jocelyn.calderon@datacourse.com,Dr.,1.0,Obstetrics & Gynecology,16
+216798,187707616,Paige,Barajas,paige.barajas@datacourse.com,Dr.,1.0,Pediatrics,37
+216799,187723320,Jeanne,Galloway,jeanne.galloway@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216800,187720070,Timothy,Reynolds,timothy.reynolds@datacourse.com,Dr.,0.63,Surgery - Vascular Surgery,77
+216805,187709072,Tammie,Maxwell,tammie.maxwell@datacourse.com,Dr.,0.6,Surgery,2
+216806,187717678,Patrick,Avila,patrick.avila@datacourse.com,Dr.,0.16,Orthopaedic Surgery,20
+216813,187711230,Jerry,Ray,jerry.ray@datacourse.com,Dr.,1.0,Family Medicine,8
+216814,187704834,Tammy,Zamora,tammy.zamora@datacourse.com,Dr.,0.3,Surgery - Vascular Surgery,77
+216816,187704002,Kevin,Shannon,kevin.shannon@datacourse.com,Dr.,0.85,Surgery,2
+216819,187721058,Alicia,Howard,alicia.howard@datacourse.com,Dr.,0.85,Pathology,22
+216820,187702442,Zachary,Beasley,zachary.beasley@datacourse.com,Dr.,1.0,Internal Medicine,11
+216823,187722696,Eric,Cantrell,eric.cantrell@datacourse.com,Dr.,0.4,Pathology,22
+216824,187703352,Amber,Moore,amber.moore@datacourse.com,Dr.,0.68,Emergency Medicine,93
+216826,187706654,Jasmin,Hughes,jasmin.hughes@datacourse.com,Dr.,0.7,Internal Medicine,11
+216827,187701142,Debbie,Wolfe,debbie.wolfe@datacourse.com,Dr.,0.38,Orthopaedic Surgery,20
+216828,187716274,Kayla,Nicholson,kayla.nicholson@datacourse.com,Dr.,1.0,Thoracic Surgery (Cardiothoracic Vascular Surgery),33
+216829,187719004,Nicole,Parsons,nicole.parsons@datacourse.com,Dr.,0.5,Diagnostic Radiology,30
+216832,187723086,Alexander,Murphy,alexander.murphy@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216834,187716976,William,Whitney,william.whitney@datacourse.com,Dr.,1.0,Neurological Surgery,14
+216836,187703950,Mikayla,Kramer,mikayla.kramer@datacourse.com,Dr.,0.6,Pediatrics,37
+216840,187708344,Robert,Jarvis,robert.jarvis@datacourse.com,Dr.,1.0,Physical Medicine & Rehabilitation,25
+216842,187717262,Kimberly,Mueller,kimberly.mueller@datacourse.com,Dr.,0.6,Pediatrics,37
+216844,187721448,Sarah,Watkins,sarah.watkins@datacourse.com,Dr.,1.0,Family Medicine,8
+216850,187713102,Robert,Pearson,robert.pearson@datacourse.com,Dr.,1.0,Internal Medicine,11
+216854,187702364,Andrew,Rivers,andrew.rivers@datacourse.com,Dr.,1.0,Diagnostic Radiology,30
+216856,187714454,Lisa,Burnett,lisa.burnett@datacourse.com,Dr.,0.6,Emergency Medicine,93
+216858,187701480,Chelsea,Wolf,chelsea.wolf@datacourse.com,Dr.,0.4,Internal Medicine,11
+216862,187700622,Jessica,Mejia,jessica.mejia@datacourse.com,Dr.,1.0,Internal Medicine,11
+216863,187719394,Lori,Carson,lori.carson@datacourse.com,Dr.,1.0,Surgery,2
+216864,187705224,Lisa,Shah,lisa.shah@datacourse.com,Dr.,0.2,Surgery,2
+216867,187711386,Walter,Mcgrath,walter.mcgrath@datacourse.com,Dr.,0.95,Emergency Medicine,93
+216869,187720434,Jennifer,Suarez,jennifer.suarez@datacourse.com,Dr.,0.9,Obstetrics & Gynecology,16
+216871,187705952,Renee,Eaton,renee.eaton@datacourse.com,Dr.,0.88,Pediatrics,37
+216872,187707850,Maureen,Mack,maureen.mack@datacourse.com,Dr.,1.0,Internal Medicine,11
+216873,187708214,Madison,Burke,madison.burke@datacourse.com,Dr.,0.9,Surgery,2
+216874,187705614,Gina,Robles,gina.robles@datacourse.com,Dr.,0.92,Internal Medicine,11
+216875,187709982,Natalie,Bowers,natalie.bowers@datacourse.com,Dr.,0.6,Internal Medicine,11
+216877,187724048,Kristin,Bennett,kristin.bennett@datacourse.com,Dr.,0.95,Internal Medicine,11
+216880,187708656,Emily,Simon,emily.simon@datacourse.com,Dr.,1.0,Family Medicine,8
+216883,187713128,Taylor,Keller,taylor.keller@datacourse.com,Dr.,0.8,Pathology,22
+216886,187703222,Zachary,Pham,zachary.pham@datacourse.com,Dr.,1.0,Pediatrics,37
+216887,187721942,Cindy,Wu,cindy.wu@datacourse.com,Dr.,0.4,Pediatrics,37
+216888,187708604,Brian,Hudson,brian.hudson@datacourse.com,Dr.,0.6,Family Medicine,8
+216889,187700388,Catherine,Huff,catherine.huff@datacourse.com,Dr.,0.4,Thoracic Surgery (Cardiothoracic Vascular Surgery),33
+216893,187703664,Ryan,Pugh,ryan.pugh@datacourse.com,Dr.,0.6,Pathology,22
+216894,187704938,Holly,Mcmahon,holly.mcmahon@datacourse.com,Dr.,0.8,Family Medicine,8
+216896,187710034,Michael,Waller,michael.waller@datacourse.com,Dr.,0.6,Internal Medicine,11
+216897,187701064,Dawn,Branch,dawn.branch@datacourse.com,Dr.,0.7,Internal Medicine,11
+216898,187706316,Timothy,Bishop,timothy.bishop@datacourse.com,Dr.,0.7,Family Medicine,8
+216900,187703300,Joann,Price,joann.price@datacourse.com,Dr.,0.94,Internal Medicine,11
+216902,187712088,Frances,Mclaughlin,frances.mclaughlin@datacourse.com,Dr.,1.0,Internal Medicine,11
+216903,187709436,Robert,Duarte,robert.duarte@datacourse.com,Dr.,0.8,Family Medicine,8
+216904,187722046,Cindy,Moran,cindy.moran@datacourse.com,Dr.,0.75,Diagnostic Radiology,30
+216907,187716352,Shannon,Allison,shannon.allison@datacourse.com,Dr.,0.95,Pathology,22
+216908,187714168,Vincent,Chandler,vincent.chandler@datacourse.com,Dr.,1.0,Internal Medicine,11
+216909,187710658,Stuart,Chang,stuart.chang@datacourse.com,Dr.,1.0,Nuclear Medicine,36
+216911,187724256,Samantha,Wall,samantha.wall@datacourse.com,Dr.,0.8,Family Medicine,8
+216913,187718042,Jessica,Valentine,jessica.valentine@datacourse.com,Dr.,0.75,Family Medicine,8
+216915,187722670,Susan,Patterson,susan.patterson@datacourse.com,Dr.,0.78,Internal Medicine,11
+216916,187724230,Brandi,Larsen,brandi.larsen@datacourse.com,Dr.,1.0,Family Medicine,8
+216918,187711308,Angela,Robertson,angela.robertson@datacourse.com,Dr.,0.6,Family Medicine,8
+216919,187704314,David,Bradford,david.bradford@datacourse.com,Dr.,0.53,Family Medicine,8
+216922,187702988,Crystal,Ball,crystal.ball@datacourse.com,Dr.,0.9,Obstetrics & Gynecology,16
+216923,187723892,Veronica,Ewing,veronica.ewing@datacourse.com,Dr.,0.95,Diagnostic Radiology,30
+216924,187709150,Lauren,Robbins,lauren.robbins@datacourse.com,Dr.,1.0,Internal Medicine,11
+216926,187707720,Jennifer,Washington,jennifer.washington@datacourse.com,Dr.,0.97,Obstetrics & Gynecology,16
+216928,187708266,Brett,Roberts,brett.roberts@datacourse.com,Dr.,0.6,Pediatrics,37
+216930,187705640,Katrina,Shea,katrina.shea@datacourse.com,Dr.,0.85,Diagnostic Radiology,30
+216934,187714506,Scott,Owen,scott.owen@datacourse.com,Dr.,0.8,Diagnostic Radiology,30
+216935,187705276,Peter,Walker,peter.walker@datacourse.com,Dr.,0.76,Diagnostic Radiology,30
+216937,187720798,Shane,Love,shane.love@datacourse.com,Dr.,0.92,Internal Medicine,11
+216943,187701766,Walter,Huerta,walter.huerta@datacourse.com,Dr.,1.0,Family Medicine,8
+216945,187707980,Natalie,Barton,natalie.barton@datacourse.com,Dr.,1.0,Family Medicine,8
+216950,187714766,Adam,Abbott,adam.abbott@datacourse.com,Dr.,0.9,Pediatrics,37
+216998,187703014,Roy,Bender,roy.bender@datacourse.com,Dr.,0.17,Internal Medicine,11
+217022,187708162,Richard,Kim,richard.kim@datacourse.com,Dr.,0.44,Psychologist,68
+217038,187712348,Nathan,White,nathan.white@datacourse.com,Dr.,0.49,Psychologist,68
+217072,187717626,Haley,Frederick,haley.frederick@datacourse.com,Dr.,0.2,Physical Medicine & Rehabilitation,25
+217089,187718692,Nicholas,Jimenez,nicholas.jimenez@datacourse.com,Dr.,0.4,Obstetrics & Gynecology,16
+217113,187717366,Wanda,Carrillo,wanda.carrillo@datacourse.com,Dr.,0.35,Pediatrics,37
+217122,187700674,Brent,Choi,brent.choi@datacourse.com,Dr.,0.7,Obstetrics & Gynecology,16
+217130,187711568,James,Carter,james.carter@datacourse.com,Dr.,0.06,Obstetrics & Gynecology,16
+217142,187719810,Lisa,Sawyer,lisa.sawyer@datacourse.com,Dr.,0.4,Diagnostic Radiology,30
+217237,187716950,Erin,Leach,erin.leach@datacourse.com,Dr.,0.18,Internal Medicine,11
+217390,187707096,Chase,Tapia,chase.tapia@datacourse.com,Dr.,0.26,Pediatrics,37
+217472,187715156,Aaron,Patel,aaron.patel@datacourse.com,Dr.,0.34,Urology,34
+218243,187709852,Sean,Pitts,sean.pitts@datacourse.com,Dr.,1.0,Internal Medicine,11
+218365,187716872,Nancy,Spencer,nancy.spencer@datacourse.com,Dr.,0.21,Family Medicine,8
