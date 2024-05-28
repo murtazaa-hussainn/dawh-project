@@ -1,12 +1,12 @@
-ClinicNbr,DisplayName,Address1,Address2,City,State,Zip
-785522,Evergreen Clinic,"Pennington, Buckley and Moore Building",436 Lee Club,Columbus,Ohio,43109
-785623,Twin Mountains Hospital,Obrien LLC Building,79985 Stephen Mission,Jacksonville,Florida,32224
-785724,Big Heart Community Hospital,Powell and Sons Building,9907 Bradley Summit,Frankfort,Illinois,40601
-785825,Pioneer Clinic,"Woods, Baker and Bradford Building",81123 Gonzalez Trail,Auburn,New York,36849
-785926,Fairmont Hospital Center,"Patel, Hampton and Collins Building",91211 Andrew Skyway,Beaumont,Texas,77708
-786027,Angelstone Community Hospital,Ewing Group Building,206 Eric Manor,Austin,Texas,78749
-786128,Genesis Hospital Center,"Garcia, Maldonado and Randolph Building",262 Michael Passage,Marysville,Washington,98271
-786229,Principal Medical Clinic,"Tanner, Randall and Sullivan Building",16568 Ramos Mills,Ann Arbor,Michigan,48103
-786330,Fairview General Hospital,"Reynolds, Randall and Riley Building",1933 Davis Forest,Dublin,California,94568
-786431,Guardian Medical Clinic,"Johnson, Drake and Porter Building",31474 Lester Rapid,Bridgeton,New Jersey,63044
-786532,Memorial Medical Center,"Morgan, Greene and Dougherty Building",0695 Anderson Fall,Lake Elsinore,California,92570
+ClinicNbr,DisplayName,Address1,Address2,City,State,Zip,Region
+785522,Evergreen Clinic,"Flores, Lambert and Davis Building",749 Nicole Squares,Columbus,Ohio,43109,Midwest
+785623,Twin Mountains Hospital,Ruiz-Proctor Building,035 Christine Trafficway,Jacksonville,Florida,32224,South
+785724,Big Heart Community Hospital,Luna Ltd Building,092 Brandon Station,Frankfort,Illinois,40601,Midwest
+785825,Pioneer Clinic,"Moore, Booker and Jones Building",18733 Ramirez Ford,Auburn,New York,36849,Northeast
+785926,Fairmont Hospital Center,Lewis Ltd Building,18096 Kathleen Rue,Beaumont,Texas,77708,South
+786027,Angelstone Community Hospital,"Bailey, Ballard and Anderson Building",1643 Ronald Extensions,Austin,Texas,78749,South
+786128,Genesis Hospital Center,"Newman, Reynolds and Mooney Building",26687 Williamson Plains,Marysville,Washington,98271,West
+786229,Principal Medical Clinic,Powell-Rodriguez Building,33246 Valencia Keys,Ann Arbor,Michigan,48103,Midwest
+786330,Fairview General Hospital,Boyd-Crawford Building,90363 James Mount,Dublin,California,94568,West
+786431,Guardian Medical Clinic,"Cook, Mitchell and Velez Building",803 Hughes Fords,Bridgeton,New Jersey,63044,Northeast
+786532,Memorial Medical Center,Hill Inc Building,01719 Kevin Springs,Lake Elsinore,California,92570,West
