@@ -41,7 +41,7 @@ CREATE TABLE "DP_OLTP_HEALTHCARE"."PatientSurvey" (
     "BloodGroup" varchar(10) NULL,
     "TobaccoUser" varchar(10) NULL,
     "AlcoholUser" varchar(10) NULL,
-    "ExerciseFrequency" varchar(10) NULL,
+    "ExerciseFrequency" varchar(50) NULL,
     "OnDiet" varchar(10) NULL,
     "Ethnicity" varchar(50) NULL,
     CONSTRAINT "PatientSurvey_PKey" PRIMARY KEY ("SurveyNbr")
