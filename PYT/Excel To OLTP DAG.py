@@ -74,11 +74,11 @@ def upload_patient_to_postgres():
 
     if last_processed_date == datetime.strptime('2022-01-01', '%Y-%m-%d'):
         # Filter the DataFrame based on the max processed date
-        new_data = df[df['RegistrationDate'] <= max_processed_date]
+        new_data = df[df['RegistrationDate'] < max_processed_date]
 
     else:
         # Filter the DataFrame based on the last processed date and max processed date
-        new_data = df[(df['RegistrationDate'] > last_processed_date) & (df['RegistrationDate'] <= max_processed_date)]
+        new_data = df[(df['RegistrationDate'] >= last_processed_date) & (df['RegistrationDate'] < max_processed_date)]
 
     # Write the new data to PostgreSQL table
     if not new_data.empty:
@@ -173,11 +173,11 @@ def upload_clinical_reports_to_postgres():
 
     if last_processed_date == datetime.strptime('2022-01-01', '%Y-%m-%d'):
         # Filter the DataFrame based on the max processed date
-        new_data = df[df['GeneratedDate'] <= max_processed_date]
+        new_data = df[df['GeneratedDate'] < max_processed_date]
 
     else:
         # Filter the DataFrame based on the last processed date and max processed date
-        new_data = df[(df['GeneratedDate'] > last_processed_date) & (df['GeneratedDate'] <= max_processed_date)]
+        new_data = df[(df['GeneratedDate'] >= last_processed_date) & (df['GeneratedDate'] < max_processed_date)]
 
     # Write the new data to PostgreSQL table
     if not new_data.empty:
