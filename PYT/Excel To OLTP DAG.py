@@ -54,7 +54,7 @@ def upload_billing_to_postgres():
     df['BillDate'] = pd.to_datetime(df['BillDate'])
 
     # Filter the DataFrame based on the last processed date
-    new_data = df[(df['BillDate'] > last_processed_date) & (df['BillDate'] <= max_processed_date)]
+    new_data = df[(df['BillDate'] >= last_processed_date) & (df['BillDate'] < max_processed_date)]
 
     # Write the new data to PostgreSQL table
     if not new_data.empty:
@@ -98,11 +98,11 @@ def upload_patient_survey_to_postgres():
 
     if last_processed_date == datetime.strptime('2022-01-01', '%Y-%m-%d'):
         # Filter the DataFrame based on the max processed date
-        new_data = df[df['SurveyDate'] <= max_processed_date]
+        new_data = df[df['SurveyDate'] < max_processed_date]
 
     else:
         # Filter the DataFrame based on the last processed date and max processed date
-        new_data = df[(df['SurveyDate'] > last_processed_date) & (df['SurveyDate'] <= max_processed_date)]
+        new_data = df[(df['SurveyDate'] >= last_processed_date) & (df['SurveyDate'] < max_processed_date)]
 
     # Write the new data to PostgreSQL table
     if not new_data.empty:
