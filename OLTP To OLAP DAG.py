@@ -115,6 +115,7 @@ def load_transform_dim_patient():
 
         # Join tables to form the DimPatient Table
         DimPatient = pd.merge(Patient, PatientSurvey, how='right', left_on='PatientNbr', right_on='SurveyNbr')
+        DimPatient['Age'] = (DimPatient['RegistrationDate'] - DimPatient['DOB']).dt.days // 365
 
         # Rename Columns
         rename_dict = {
@@ -125,6 +126,7 @@ def load_transform_dim_patient():
             'LastName': 'LastName',
             'Email': 'Email',
             'Gender': 'Gender',
+            'Age': 'Age',
             'DOB': 'DOB',
             'HeightCms': 'Height(cms)',
             'HeightIn': 'Height(in)',
